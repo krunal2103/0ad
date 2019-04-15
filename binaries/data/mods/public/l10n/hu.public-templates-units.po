@@ -12,15 +12,15 @@
 # lkishalmi <laszlo.kishalmi@gmail.com>, 2014
 # Mátyás Demeter <mathias.demeter@gmail.com>, 2015
 # Matyas Erdos <valamihihi@index.hu>, 2015
-# Nagy András <asd0707@freemail.hu>, 2014
+# Nagy András <asd0707@freemail.hu>, 2014,2019
 # Péter Dóbé <dobepeter@gmail.com>, 2017
 # Robert Müller <mullerrobi93@gmail.com>, 2015
 # Tibor Buzási, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: 0 A.D.\n"
-"POT-Creation-Date: 2019-02-25 09:44+0100\n"
-"PO-Revision-Date: 2019-02-25 14:51+0000\n"
+"POT-Creation-Date: 2019-03-22 09:44+0100\n"
+"PO-Revision-Date: 2019-03-22 15:29+0000\n"
 "Last-Translator: Adrián Chaves Fernández <adriyetichaves@gmail.com>\n"
 "Language-Team: Hungarian (http://www.transifex.com/wildfire-games/0ad/language/hu/)\n"
 "MIME-Version: 1.0\n"
@@ -294,10 +294,6 @@ msgstr "Harci kutya"
 #: simulation/templates/template_unit_dog.xml:41
 msgid "Cannot attack structures."
 msgstr "Nem tud épületet támadni."
-
-#: simulation/templates/template_unit_fauna_fish.xml:11
-msgid "Gather food from this bountiful oceanic resource."
-msgstr "Gyűjts élelmet ebből a bőséges óceáni nyersanyagból."
 
 #: simulation/templates/template_unit_fauna_hunt_whale.xml:9
 msgid "Kill, then gather food from this bountiful oceanic resource."
@@ -1785,7 +1781,7 @@ msgstr "Hemiolos"
 
 #: simulation/templates/units/mace_ship_trireme.xml:6
 msgid "Macedonian Trireme"
-msgstr ""
+msgstr "Makedón triérész"
 
 #: simulation/templates/units/mace_support_female_citizen.xml:5
 msgid "Gýnē Makedonikḗ"
@@ -2774,7 +2770,7 @@ msgstr "Hoplítēs Períoikos"
 
 #: simulation/templates/units/spart_ship_trireme.xml:6
 msgid "Spartan Trireme"
-msgstr ""
+msgstr "Spártai triérész"
 
 #: simulation/templates/units/spart_support_female_citizen.xml:21
 msgid "Spartan Woman"

@@ -6,18 +6,18 @@
 # Anton Bretéché <antonabbreizh@gmail.com>, 2016
 # ernest olory <ernestolory@hotmail.fr>, 2016
 # Feñch Gallig <ducraig@hotmail.fr>, 2017
-# Goulven <goulvenbreizh@hotmail.fr>, 2018
+# Goulven <goulvenbreizh@hotmail.fr>, 2018-2019
 # Irriep Nala Novram <allannkorh@yahoo.fr>, 2016-2018
-# Thierry Vignaud <thierry.vignaud@gmail.com>, 2017
+# Thierry Vignaud <thierry.vignaud@gmail.com>, 2017,2019
 # Irriep Nala Novram <allannkorh@yahoo.fr>, 2016
 # Yann-Vari Gwiader <yannvari.gwiader@gmail.com>, 2016
 # Goulven <goulvenbreizh@hotmail.fr>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: 0 A.D.\n"
-"POT-Creation-Date: 2019-01-25 09:44+0100\n"
-"PO-Revision-Date: 2019-01-25 15:42+0000\n"
-"Last-Translator: Adrián Chaves Fernández <adriyetichaves@gmail.com>\n"
+"POT-Creation-Date: 2019-03-22 09:44+0100\n"
+"PO-Revision-Date: 2019-04-01 14:29+0000\n"
+"Last-Translator: Goulven <goulvenbreizh@hotmail.fr>\n"
 "Language-Team: Breton (http://www.transifex.com/wildfire-games/0ad/language/br/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -70,7 +70,7 @@ msgstr "Tutañ unanennoù ispisial."
 
 #: simulation/templates/template_structure_civic_hellenic_royal_stoa.xml:38
 #: simulation/templates/template_structure_civic_temple.xml:35
-#: simulation/templates/template_structure_defense_tower_stone.xml:32
+#: simulation/templates/template_structure_defensive_tower_stone.xml:32
 #: simulation/templates/template_structure_economic_market.xml:32
 #: simulation/templates/template_structure_military_blacksmith.xml:34
 #: simulation/templates/template_structure_military_embassy.xml:41
@@ -88,8 +88,8 @@ msgid "Increase the population limit."
 msgstr "Lakaat da greskiñ bevenn ar boblañs."
 
 #: simulation/templates/template_structure_civic_house.xml:36
-#: simulation/templates/template_structure_defense_tower_outpost.xml:51
-#: simulation/templates/template_structure_defense_tower_sentry.xml:36
+#: simulation/templates/template_structure_defensive_tower_outpost.xml:51
+#: simulation/templates/template_structure_defensive_tower_sentry.xml:36
 #: simulation/templates/template_structure_economic_farmstead.xml:33
 #: simulation/templates/template_structure_economic_storehouse.xml:34
 #: simulation/templates/template_structure_military_barracks.xml:31
@@ -115,61 +115,61 @@ msgstr "Stummit pareerien. Unanennoù e gwarnizon evit pareañ anezho buan (3 FB
 msgid "Temple"
 msgstr "Templ"
 
-#: simulation/templates/template_structure_defense.xml:14
+#: simulation/templates/template_structure_defensive.xml:14
 msgid "Defensive Structure"
 msgstr "Savadur Difenn"
 
-#: simulation/templates/template_structure_defense_tower.xml:30
-#: simulation/templates/template_structure_defense_tower_sentry.xml:36
-#: simulation/templates/template_structure_defense_tower_stone.xml:32
+#: simulation/templates/template_structure_defensive_tower.xml:30
+#: simulation/templates/template_structure_defensive_tower_sentry.xml:36
+#: simulation/templates/template_structure_defensive_tower_stone.xml:32
 msgid "DefenseTower"
 msgstr "TourDifenn"
 
-#: simulation/templates/template_structure_defense_tower_outpost.xml:50
+#: simulation/templates/template_structure_defensive_tower_outpost.xml:50
 msgid ""
 "Build in neutral and own territories to scout areas of the map. Slowly "
 "converts to Gaia while in neutral territory."
 msgstr "Sevel e-barzh tiriadoù neptuek ha glan evit mont da zizoloiñ gorread ar gartenn. Goustadik ec'h amdro betek Gaia tra ma vez en un tiriad neptuek."
 
-#: simulation/templates/template_structure_defense_tower_outpost.xml:51
-#: simulation/templates/template_structure_defense_tower_outpost.xml:27
-#: simulation/templates/template_structure_defense_tower_outpost.xml:49
+#: simulation/templates/template_structure_defensive_tower_outpost.xml:51
+#: simulation/templates/template_structure_defensive_tower_outpost.xml:27
+#: simulation/templates/template_structure_defensive_tower_outpost.xml:49
 msgid "Outpost"
 msgstr "Kamp-Araokaet"
 
-#: simulation/templates/template_structure_defense_tower_sentry.xml:33
+#: simulation/templates/template_structure_defensive_tower_sentry.xml:33
 msgid "Sentry Tower"
 msgstr "Tour-Ged"
 
-#: simulation/templates/template_structure_defense_tower_sentry.xml:36
+#: simulation/templates/template_structure_defensive_tower_sentry.xml:36
 msgid "SentryTower"
 msgstr "TourGed"
 
-#: simulation/templates/template_structure_defense_tower_sentry.xml:37
+#: simulation/templates/template_structure_defensive_tower_sentry.xml:37
 msgid ""
 "Shoots arrows. Garrison to provide extra defence. Needs the murder holes "
 "tech to protect its foot. Upgradeable to stone tower."
 msgstr "Tenn biroù. Lakaat unannennoù en gwarnizon evit kaout un difenn ouzhpenn. Ezhomm 'zo da gaout teknologiezh an tarzhelloù evit gwareziñ he zroad. Gallout a ra bezañ gwellaet en tour-maen."
 
-#: simulation/templates/template_structure_defense_tower_sentry.xml:58
+#: simulation/templates/template_structure_defensive_tower_sentry.xml:58
 msgid "Reinforce with stone and upgrade to a defense tower."
 msgstr "Kreñvaat gant mein ha gwellaat en un tour difenn."
 
-#: simulation/templates/template_structure_defense_tower_stone.xml:29
+#: simulation/templates/template_structure_defensive_tower_stone.xml:29
 msgid "Defense Tower"
 msgstr "Tour Difenn"
 
-#: simulation/templates/template_structure_defense_tower_stone.xml:30
+#: simulation/templates/template_structure_defensive_tower_stone.xml:30
 msgid ""
 "Shoots arrows. Garrison to provide extra defence. Needs the murder holes "
 "tech to protect its foot."
 msgstr "Tenn biroù. Lakaat unanennoù en gwarnizon evit kaout un difenn ouzhpenn. Ezhomm 'zo da gaout teknologiezh an tarzhelloù evit gwareziñ he zroad."
 
-#: simulation/templates/template_structure_defense_tower_stone.xml:32
+#: simulation/templates/template_structure_defensive_tower_stone.xml:32
 msgid "StoneTower"
 msgstr "Tour-Mein"
 
-#: simulation/templates/template_structure_defense_wall.xml:26
+#: simulation/templates/template_structure_defensive_wall.xml:26
 #: simulation/templates/structures/cart_s_wall_long.xml:7
 #: simulation/templates/structures/cart_s_wall_medium.xml:7
 #: simulation/templates/structures/cart_s_wall_short.xml:7
@@ -177,40 +177,35 @@ msgstr "Tour-Mein"
 msgid "Stone Wall"
 msgstr "Moger Vein"
 
-#: simulation/templates/template_structure_defense_wall.xml:27
-#: simulation/templates/template_structure_defense_wallset.xml:12
+#: simulation/templates/template_structure_defensive_wall.xml:27
 msgid "Wall off your town for a stout defense."
 msgstr "Tro-droit gant ur Voger ho kêr evit a-benn kaout un difenn kreñv."
 
-#: simulation/templates/template_structure_defense_wall_gate.xml:14
+#: simulation/templates/template_structure_defensive_wall_gate.xml:14
 msgid "City Gate"
 msgstr "Dorioù Kêr"
 
-#: simulation/templates/template_structure_defense_wall_gate.xml:16
+#: simulation/templates/template_structure_defensive_wall_gate.xml:16
 msgid ""
 "Allow units access through a city wall. Can be locked to prevent access."
 msgstr "Lezel a raio hoc'h unanennoù d'ober monedone gant ur voger eus ar gêr. Prennet e c'hall bezañ a-benn mirout ouzh ar monedone."
 
-#: simulation/templates/template_structure_defense_wall_long.xml:42
+#: simulation/templates/template_structure_defensive_wall_long.xml:42
 msgid "Long wall segments can be converted to gates."
 msgstr "Amdroet e c'hall bezañ tammoù hir eus ar mogerioù e dorioù."
 
-#: simulation/templates/template_structure_defense_wall_long.xml:48
+#: simulation/templates/template_structure_defensive_wall_long.xml:48
 msgid ""
 "This will allow you to let units circulate through your fortifications."
 msgstr "Ar pezh-mañ a lezo hoc'h unanennoù da dremen dre ho kreñvadurioù."
 
-#: simulation/templates/template_structure_defense_wall_tower.xml:59
+#: simulation/templates/template_structure_defensive_wall_tower.xml:59
 msgid "Wall Turret"
 msgstr "Touribell Voger"
 
-#: simulation/templates/template_structure_defense_wall_tower.xml:60
+#: simulation/templates/template_structure_defensive_wall_tower.xml:60
 msgid "Shoots arrows. Garrison to defend a city wall against attackers."
 msgstr "Biroù a denn. Lakait tud e gwarnizon a-benn difenn ur voger-gêr a-enep d'an argaderien."
-
-#: simulation/templates/template_structure_defense_wallset.xml:11
-msgid "City Wall"
-msgstr "Moger Gêr"
 
 #: simulation/templates/template_structure_economic.xml:15
 msgid "Economic Structure"
@@ -615,21 +610,21 @@ msgstr "Pāyaud"
 
 #: simulation/templates/structures/brit_barracks.xml:15
 msgid "Coriosessa"
-msgstr ""
+msgstr "Coriosessa"
 
 #: simulation/templates/structures/brit_blacksmith.xml:8
 #: simulation/templates/structures/gaul_blacksmith.xml:8
 msgid "Gobanion"
-msgstr ""
+msgstr "Gobanion"
 
 #: simulation/templates/structures/brit_civil_centre.xml:12
 msgid "Tigernotreba"
-msgstr ""
+msgstr "Tigernotreba"
 
 #: simulation/templates/structures/brit_corral.xml:8
 #: simulation/templates/structures/gaul_corral.xml:8
 msgid "Cagion"
-msgstr ""
+msgstr "Cagion"
 
 #: simulation/templates/structures/brit_crannog.xml:12
 msgid "Island Settlement"
@@ -641,7 +636,7 @@ msgstr "Lakaat da greskiñ bevenn ar boblañs ha difenn an hentoù-bageal."
 
 #: simulation/templates/structures/brit_crannog.xml:17
 msgid "Cranogion"
-msgstr ""
+msgstr "Cranogion"
 
 #: simulation/templates/structures/brit_defense_tower.xml:9
 #: simulation/templates/structures/brit_sentry_tower.xml:5
@@ -650,27 +645,27 @@ msgstr ""
 #: simulation/templates/structures/gaul_sentry_tower.xml:5
 #: simulation/templates/structures/gaul_wall_tower.xml:11
 msgid "Uxelon"
-msgstr ""
+msgstr "Ukselon"
 
 #: simulation/templates/structures/brit_dock.xml:15
 #: simulation/templates/structures/gaul_dock.xml:15
 msgid "Counos"
-msgstr ""
+msgstr "Kounos"
 
 #: simulation/templates/structures/brit_farmstead.xml:14
 #: simulation/templates/structures/gaul_farmstead.xml:11
 msgid "Buta"
-msgstr ""
+msgstr "Buta"
 
 #: simulation/templates/structures/brit_field.xml:5
 #: simulation/templates/structures/gaul_field.xml:5
 msgid "Olca"
-msgstr ""
+msgstr "Olka"
 
 #: simulation/templates/structures/brit_fortress.xml:15
 #: simulation/templates/structures/gaul_fortress.xml:8
 msgid "Dunon"
-msgstr ""
+msgstr "Dunon"
 
 #: simulation/templates/structures/brit_fortress.xml:16
 msgid "Train Brythonic heroes and champions. Construct siege rams."
@@ -679,26 +674,26 @@ msgstr "Stummit harozed Predenek ha kampioned. Savit tourzioù-seziz."
 #: simulation/templates/structures/brit_house.xml:9
 #: simulation/templates/structures/gaul_house.xml:5
 msgid "Tegia"
-msgstr ""
+msgstr "Tegia"
 
 #: simulation/templates/structures/brit_kennel.xml:5
 msgid "Cunattegia"
-msgstr ""
+msgstr "Kunattegia"
 
 #: simulation/templates/structures/brit_market.xml:15
 #: simulation/templates/structures/gaul_market.xml:15
 msgid "Magos"
-msgstr ""
+msgstr "Magos"
 
 #: simulation/templates/structures/brit_outpost.xml:5
 #: simulation/templates/structures/gaul_outpost.xml:5
 msgid "Antosolicon"
-msgstr ""
+msgstr "Antosolikon"
 
 #: simulation/templates/structures/brit_range.xml:12
 #: simulation/templates/structures/gaul_range.xml:12
 msgid "Budinadon"
-msgstr ""
+msgstr "Budinadon"
 
 #: simulation/templates/structures/brit_rotarymill.xml:5
 msgid "Melonas"
@@ -707,22 +702,22 @@ msgstr "Melonas"
 #: simulation/templates/structures/brit_stable.xml:12
 #: simulation/templates/structures/gaul_stable.xml:12
 msgid "Eposton"
-msgstr ""
+msgstr "Eposton"
 
 #: simulation/templates/structures/brit_storehouse.xml:11
 #: simulation/templates/structures/gaul_storehouse.xml:11
 msgid "Capanon"
-msgstr ""
+msgstr "Capanon"
 
 #: simulation/templates/structures/brit_temple.xml:18
 #: simulation/templates/structures/gaul_temple.xml:18
 msgid "Nemeton"
-msgstr ""
+msgstr "Nemeton"
 
 #: simulation/templates/structures/brit_wall_gate.xml:9
 #: simulation/templates/structures/gaul_wall_gate.xml:9
 msgid "Duoricos"
-msgstr ""
+msgstr "Duoricos"
 
 #: simulation/templates/structures/brit_wall_long.xml:29
 #: simulation/templates/structures/brit_wall_medium.xml:23
@@ -733,7 +728,7 @@ msgstr ""
 #: simulation/templates/structures/gaul_wall_short.xml:10
 #: simulation/templates/structures/gaul_wallset_stone.xml:5
 msgid "Rate"
-msgstr ""
+msgstr "Feur"
 
 #: simulation/templates/structures/brit_wall_tower.xml:12
 #: simulation/templates/structures/gaul_wall_tower.xml:12
@@ -748,7 +743,7 @@ msgstr "Stonehenge"
 #: simulation/templates/structures/brit_workshop.xml:8
 #: simulation/templates/structures/gaul_workshop.xml:5
 msgid "Miletucerdon"
-msgstr ""
+msgstr "Miletucerdon"
 
 #: simulation/templates/structures/cart_apartment.xml:17
 msgid "Apartment Building"
@@ -921,11 +916,11 @@ msgstr "Templ Ba'al Hammon"
 
 #: simulation/templates/structures/gaul_barracks.xml:15
 msgid "Coriosedlon"
-msgstr ""
+msgstr "Coriosedlon"
 
 #: simulation/templates/structures/gaul_civil_centre.xml:9
 msgid "Lissos"
-msgstr ""
+msgstr "Lissos"
 
 #: simulation/templates/structures/gaul_fortress.xml:9
 msgid "Train Gallic heroes and champions. Construct siege rams."
@@ -933,7 +928,7 @@ msgstr "Stummit harozed ha kampioned Galian. Savit tourzioù-seziz."
 
 #: simulation/templates/structures/gaul_rotarymill.xml:5
 msgid "Brauon"
-msgstr ""
+msgstr "Brauon"
 
 #: simulation/templates/structures/gaul_tavern.xml:23
 msgid "Tavern"
@@ -946,6 +941,14 @@ msgstr "Tavarn"
 #: simulation/templates/structures/gaul_tavern.xml:25
 msgid "Recruit Naked Fanatics."
 msgstr "Tutañ Tud Trelatet Noazh."
+
+#: simulation/templates/structures/gaul_theatron.xml:6
+msgid "Assembly of princes"
+msgstr ""
+
+#: simulation/templates/structures/gaul_theatron.xml:7
+msgid "Remogantion"
+msgstr ""
 
 #: simulation/templates/structures/iber_barracks.xml:11
 msgid "Kaserna"
@@ -1072,7 +1075,7 @@ msgstr "Mryt"
 
 #: simulation/templates/structures/kush_elephant_stables.xml:5
 msgid "Ỉ﻿ḥ Abu"
-msgstr ""
+msgstr "Ỉḥ Abu"
 
 #: simulation/templates/structures/kush_farmstead.xml:9
 msgid "snwt"
@@ -1136,7 +1139,7 @@ msgstr "mr"
 
 #: simulation/templates/structures/kush_range.xml:9
 msgid "Pr-Pdt"
-msgstr ""
+msgstr "Pr-Pdt"
 
 #: simulation/templates/structures/kush_sentry_tower.xml:5
 msgid "tsmt"
@@ -1152,7 +1155,7 @@ msgstr "ḥwt-nṯr"
 
 #: simulation/templates/structures/kush_stable.xml:9
 msgid "Ỉḥ Ssmt"
-msgstr ""
+msgstr "Ỉḥ Ssmt"
 
 #: simulation/templates/structures/kush_storehouse.xml:5
 msgid "wd3t"
@@ -1207,7 +1210,7 @@ msgstr "Mnw nht"
 
 #: simulation/templates/structures/kush_workshop.xml:5
 msgid "Pr-ỉwn n ms﻿"
-msgstr ""
+msgstr "Pr-ỉwn n ms"
 
 #: simulation/templates/structures/mace_blacksmith.xml:5
 msgid "Sidērourgeîon"

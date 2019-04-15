@@ -15,8 +15,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0 A.D.\n"
-"POT-Creation-Date: 2019-01-04 09:45+0100\n"
-"PO-Revision-Date: 2019-03-03 07:58+0000\n"
+"POT-Creation-Date: 2019-03-22 09:45+0100\n"
+"PO-Revision-Date: 2019-04-04 03:49+0000\n"
 "Last-Translator: ks k\n"
 "Language-Team: Korean (http://www.transifex.com/wildfire-games/0ad/language/ko/)\n"
 "MIME-Version: 1.0\n"
@@ -27,7 +27,7 @@ msgstr ""
 
 #: maps/random/aegean_sea.jsonsettings.Description
 msgid "Players start on two sides of a sea with scattered islands."
-msgstr "플레이어는 분산되어 있는 섬과 함께 바다의 양쪽에서 시작합니다."
+msgstr "선수는 분산되어 있는 섬과 함께 바다의 양쪽에서 시작합니다."
 
 #: maps/random/aegean_sea.jsonsettings.Name
 msgid "Aegean Sea"
@@ -101,7 +101,7 @@ msgstr ""
 
 #: maps/random/arctic_summer.jsonsettings.Name
 msgid "Arctic Summer"
-msgstr ""
+msgstr "북극의 여름"
 
 #: maps/random/ardennes_forest.jsonsettings.Description
 msgid ""
@@ -148,7 +148,7 @@ msgstr ""
 
 #: maps/random/belgian_uplands.jsonsettings.Name
 msgid "Belgian Uplands"
-msgstr ""
+msgstr "벨기에 높은 지대"
 
 #: maps/random/botswanan_haven.jsonsettings.Description
 msgid ""
@@ -171,7 +171,7 @@ msgstr ""
 
 #: maps/random/caledonian_meadows.jsonsettings.Name
 msgid "Caledonian Meadows"
-msgstr ""
+msgstr "칼레도니아의 목초 지대"
 
 #: maps/random/cantabrian_highlands.jsonsettings.Description
 msgid ""
@@ -181,7 +181,7 @@ msgstr ""
 
 #: maps/random/cantabrian_highlands.jsonsettings.Name
 msgid "Cantabrian Highlands"
-msgstr "칸타브리아 산악 지대"
+msgstr "칸타브리아 고원"
 
 #: maps/random/canyon.jsonsettings.Description
 msgid "Players start around the map in deep canyons."
@@ -209,7 +209,7 @@ msgstr ""
 
 #: maps/random/corinthian_isthmus.jsonsettings.Name
 msgid "Corinthian Isthmus"
-msgstr ""
+msgstr "코린트 지협"
 
 #: maps/random/corsica.jsonsettings.Description
 msgid ""
@@ -265,7 +265,7 @@ msgstr ""
 
 #: maps/random/dodecanese.jsonsettings.Name
 msgid "Dodecanese"
-msgstr ""
+msgstr "도데카니사"
 
 #: maps/random/elephantine.jsonsettings.Description
 msgid ""
@@ -279,7 +279,7 @@ msgstr ""
 
 #: maps/random/elephantine.jsonsettings.Name
 msgid "Elephantine"
-msgstr ""
+msgstr "엘레판티네"
 
 #: maps/random/empire.jsonsettings.Description
 msgid ""
@@ -310,7 +310,7 @@ msgstr ""
 
 #: maps/random/extinct_volcano.jsonsettings.Name
 msgid "Extinct Volcano"
-msgstr ""
+msgstr "사화산"
 
 #: maps/random/fields_of_meroe.jsonsettings.Description
 msgid ""
@@ -416,7 +416,7 @@ msgstr ""
 
 #: maps/random/hells_pass.jsonsettings.Name
 msgid "Hell's Pass"
-msgstr ""
+msgstr "지옥의 길"
 
 #: maps/random/hyrcanian_shores.jsonsettings.Description
 msgid ""
@@ -426,7 +426,7 @@ msgstr ""
 
 #: maps/random/hyrcanian_shores.jsonsettings.Name
 msgid "Hyrcanian Shores"
-msgstr "히르카니아 해변가"
+msgstr "히르카니아 해변"
 
 #: maps/random/india.jsonsettings.Description
 msgid ""
@@ -438,7 +438,7 @@ msgstr ""
 
 #: maps/random/india.jsonsettings.Name
 msgid "India"
-msgstr ""
+msgstr "인도"
 
 #: maps/random/island_stronghold.jsonsettings.Description
 msgid ""
@@ -448,7 +448,7 @@ msgstr ""
 
 #: maps/random/island_stronghold.jsonsettings.Name
 msgid "Island Stronghold"
-msgstr ""
+msgstr "요새 섬"
 
 #: maps/random/islands.jsonsettings.Description
 msgid "Players start in small islands while there are many others around."
@@ -472,7 +472,7 @@ msgstr ""
 
 #: maps/random/jebel_barkal.jsonsettings.Name
 msgid "Jebel Barkal"
-msgstr ""
+msgstr "게벨 바르칼"
 
 #: maps/random/kerala.jsonsettings.Description
 msgid ""
@@ -482,7 +482,7 @@ msgstr ""
 
 #: maps/random/kerala.jsonsettings.Name
 msgid "Kerala"
-msgstr "케랄라 주"
+msgstr "케랄라"
 
 #: maps/random/lake.jsonsettings.Description
 msgid "Players start around a lake in the center of the map."
@@ -536,7 +536,7 @@ msgstr ""
 
 #: maps/random/lower_nubia.jsonsettings.Name
 msgid "Lower Nubia"
-msgstr ""
+msgstr "더낮은 누비아??"
 
 #: maps/random/mainland.jsonsettings.Description
 msgid "A typical map without any water."
@@ -560,7 +560,7 @@ msgstr ""
 
 #: maps/random/marmara.jsonsettings.Name
 msgid "Marmara"
-msgstr ""
+msgstr "마르마라"
 
 #: maps/random/mediterranean.jsonsettings.Description
 msgid ""
@@ -577,7 +577,6 @@ msgid ""
 msgstr ""
 
 #: maps/random/mediterranean.jsonsettings.Name
-#: maps/random/rmbiome/generic/mediterranean.jsonDescription.Title
 msgid "Mediterranean"
 msgstr "지중해"
 
@@ -601,7 +600,7 @@ msgstr ""
 
 #: maps/random/neareastern_badlands.jsonsettings.Name
 msgid "Neareastern Badlands"
-msgstr ""
+msgstr "중동의 불모지"
 
 #: maps/random/new_rms_test.jsonsettings.Description
 msgid "A basic test of the random map generator - not playable."
@@ -609,7 +608,7 @@ msgstr ""
 
 #: maps/random/new_rms_test.jsonsettings.Name
 msgid "New RMS Test"
-msgstr ""
+msgstr "새로운 RMS 테스트"
 
 #: maps/random/ngorongoro.jsonsettings.Description
 msgid ""
@@ -621,7 +620,7 @@ msgstr ""
 
 #: maps/random/ngorongoro.jsonsettings.Name
 msgid "Ngorongoro"
-msgstr ""
+msgstr "응고롱고로"
 
 #: maps/random/northern_lights.jsonsettings.Description
 msgid ""
@@ -652,7 +651,7 @@ msgstr ""
 
 #: maps/random/persian_highlands.jsonsettings.Name
 msgid "Persian Highlands"
-msgstr ""
+msgstr "페르시아 고원"
 
 #: maps/random/phoenician_levant.jsonsettings.Description
 msgid ""
@@ -691,7 +690,7 @@ msgstr ""
 
 #: maps/random/pompeii.jsonsettings.Name
 msgid "Pompeii"
-msgstr ""
+msgstr "폼페이"
 
 #: maps/random/pyrenean_sierra.jsonsettings.Description
 msgid ""
@@ -736,7 +735,7 @@ msgstr ""
 
 #: maps/random/rhine_marshlands.jsonsettings.Name
 msgid "Rhine Marshlands"
-msgstr "라인 습지대"
+msgstr "라인강 습지대"
 
 #: maps/random/river_archipelago.jsonsettings.Description
 msgid ""
@@ -747,7 +746,7 @@ msgstr ""
 
 #: maps/random/river_archipelago.jsonsettings.Name
 msgid "River Archipelago"
-msgstr ""
+msgstr "다도해"
 
 #: maps/random/rivers.jsonsettings.Description
 msgid ""
@@ -756,7 +755,7 @@ msgstr ""
 
 #: maps/random/rivers.jsonsettings.Name
 msgid "Rivers"
-msgstr "강들"
+msgstr "강"
 
 #: maps/random/saharan_oases.jsonsettings.Description
 msgid "Each players starts near a lush oasis in a large, desolate desert."
@@ -765,7 +764,7 @@ msgstr ""
 #: maps/random/saharan_oases.jsonsettings.Name maps/scenarios/Saharan
 #: Oases.xml:Name:27
 msgid "Saharan Oases"
-msgstr "사하라 사막의 오아시스"
+msgstr "사하라 오아시스"
 
 #: maps/random/sahel.jsonsettings.Description
 msgid ""
@@ -807,7 +806,7 @@ msgstr ""
 
 #: maps/random/scythian_rivulet.jsonsettings.Name
 msgid "Scythian Rivulet"
-msgstr ""
+msgstr "스키타이 개울"
 
 #: maps/random/snowflake_searocks.jsonsettings.Description
 msgid "Many small islands connected to each other by narrow passages."
@@ -826,7 +825,7 @@ msgstr ""
 
 #: maps/random/stronghold.jsonsettings.Name
 msgid "Stronghold"
-msgstr ""
+msgstr "요새"
 
 #: maps/random/survivalofthefittest.jsonsettings.Description
 msgid ""
@@ -863,7 +862,7 @@ msgstr ""
 
 #: maps/random/unknown.jsonsettings.Name
 msgid "Unknown"
-msgstr "알수 없는"
+msgstr "알수 없음"
 
 #: maps/random/unknown_land.jsonsettings.Description
 msgid "The unknown."
@@ -879,7 +878,7 @@ msgstr ""
 
 #: maps/random/volcanic_lands.jsonsettings.Name
 msgid "Volcanic Lands"
-msgstr ""
+msgstr "화산의 땅"
 
 #: maps/random/wall_demo.jsonsettings.Description
 msgid ""
@@ -889,7 +888,7 @@ msgstr ""
 
 #: maps/random/wall_demo.jsonsettings.Name
 msgid "Wall Demo"
-msgstr ""
+msgstr "벽 시연용"
 
 #: maps/random/wild_lake.jsonsettings.Description
 msgid "A lake surrounded by hills."
@@ -897,354 +896,7 @@ msgstr ""
 
 #: maps/random/wild_lake.jsonsettings.Name
 msgid "Wild Lake"
-msgstr ""
-
-#: maps/random/rmbiome/fields_of_meroe/dry.jsonDescription.Description
-msgid ""
-"The vitalizing waters of the Nile sustain life along its banks, while the "
-"long dry season scorches the land."
-msgstr ""
-
-#: maps/random/rmbiome/fields_of_meroe/dry.jsonDescription.Description
-msgctxt "biome definition"
-msgid ""
-"The vitalizing waters of the Nile sustain life along its banks, while the "
-"long dry season scorches the land."
-msgstr ""
-
-#: maps/random/rmbiome/fields_of_meroe/dry.jsonDescription.Title
-msgid "Dry Season"
-msgstr ""
-
-#: maps/random/rmbiome/fields_of_meroe/dry.jsonDescription.Title
-msgctxt "biome definition"
-msgid "Dry Season"
-msgstr ""
-
-#: maps/random/rmbiome/fields_of_meroe/rainy.jsonDescription.Description
-msgid ""
-"Revelling in the much awaited rain, the baked land transforms into a lush "
-"haven for both man and beast."
-msgstr ""
-
-#: maps/random/rmbiome/fields_of_meroe/rainy.jsonDescription.Description
-msgctxt "biome definition"
-msgid ""
-"Revelling in the much awaited rain, the baked land transforms into a lush "
-"haven for both man and beast."
-msgstr ""
-
-#: maps/random/rmbiome/fields_of_meroe/rainy.jsonDescription.Title
-msgid "Rainy Season"
-msgstr ""
-
-#: maps/random/rmbiome/fields_of_meroe/rainy.jsonDescription.Title
-msgctxt "biome definition"
-msgid "Rainy Season"
-msgstr ""
-
-#: maps/random/rmbiome/generic/alpine.jsonDescription.Description
-msgid ""
-"A region in the high snowy mountains. Biting winds sweep through the "
-"abundant conifer forests, making even the more resilient deer and mountain "
-"goats shiver."
-msgstr ""
-
-#: maps/random/rmbiome/generic/alpine.jsonDescription.Description
-msgctxt "biome definition"
-msgid ""
-"A region in the high snowy mountains. Biting winds sweep through the "
-"abundant conifer forests, making even the more resilient deer and mountain "
-"goats shiver."
-msgstr ""
-
-#: maps/random/rmbiome/generic/alpine.jsonDescription.Title
-msgid "Alpine"
-msgstr ""
-
-#: maps/random/rmbiome/generic/alpine.jsonDescription.Title
-msgctxt "biome definition"
-msgid "Alpine"
-msgstr ""
-
-#: maps/random/rmbiome/generic/autumn.jsonDescription.Description
-msgid ""
-"Autumn at its peak. The landscape is a dazzling dash of colors irrevocably "
-"intertwined. The native beech and oak trees of this temperate zone display a"
-" multi-colored foliage while the evergreen pines look on with indifference "
-"at the approaching winter."
-msgstr ""
-
-#: maps/random/rmbiome/generic/autumn.jsonDescription.Description
-msgctxt "biome definition"
-msgid ""
-"Autumn at its peak. The landscape is a dazzling dash of colors irrevocably "
-"intertwined. The native beech and oak trees of this temperate zone display a"
-" multi-colored foliage while the evergreen pines look on with indifference "
-"at the approaching winter."
-msgstr ""
-
-#: maps/random/rmbiome/generic/autumn.jsonDescription.Title
-msgid "Autumn"
-msgstr ""
-
-#: maps/random/rmbiome/generic/autumn.jsonDescription.Title
-msgctxt "biome definition"
-msgid "Autumn"
-msgstr ""
-
-#: maps/random/rmbiome/generic/desert.jsonDescription.Description
-msgid ""
-"A semi-desert area that boasts numerous clumps of date palms and tamarix "
-"trees. Herds of camels roam the wild and the occasional gazelle jumps up in "
-"fright at being disturbed."
-msgstr ""
-
-#: maps/random/rmbiome/generic/desert.jsonDescription.Description
-msgctxt "biome definition"
-msgid ""
-"A semi-desert area that boasts numerous clumps of date palms and tamarix "
-"trees. Herds of camels roam the wild and the occasional gazelle jumps up in "
-"fright at being disturbed."
-msgstr ""
-
-#: maps/random/rmbiome/generic/desert.jsonDescription.Title
-msgid "Desert"
-msgstr ""
-
-#: maps/random/rmbiome/generic/desert.jsonDescription.Title
-msgctxt "biome definition"
-msgid "Desert"
-msgstr ""
-
-#: maps/random/rmbiome/generic/mediterranean.jsonDescription.Description
-msgid ""
-"Start in a region blessed with the Mediterranean climate, a warm and "
-"inviting land. The cypresses are in a perpetual struggle with the dominant "
-"fan palms while deer graze in their shadows, blissfully unaware."
-msgstr ""
-
-#: maps/random/rmbiome/generic/mediterranean.jsonDescription.Description
-msgctxt "biome definition"
-msgid ""
-"Start in a region blessed with the Mediterranean climate, a warm and "
-"inviting land. The cypresses are in a perpetual struggle with the dominant "
-"fan palms while deer graze in their shadows, blissfully unaware."
-msgstr ""
-
-#: maps/random/rmbiome/generic/savanna.jsonDescription.Description
-msgid ""
-"The savanna, a dry climate in which only the hardy Baobab trees thrive. "
-"Solitary gazelles graze the sparse grass, while herds of zebras, wildebeest,"
-" giraffes or elephants roam the wild in search of food."
-msgstr ""
-
-#: maps/random/rmbiome/generic/savanna.jsonDescription.Description
-msgctxt "biome definition"
-msgid ""
-"The savanna, a dry climate in which only the hardy Baobab trees thrive. "
-"Solitary gazelles graze the sparse grass, while herds of zebras, wildebeest,"
-" giraffes or elephants roam the wild in search of food."
-msgstr ""
-
-#: maps/random/rmbiome/generic/savanna.jsonDescription.Title
-msgid "Savanna"
-msgstr ""
-
-#: maps/random/rmbiome/generic/savanna.jsonDescription.Title
-msgctxt "biome definition"
-msgid "Savanna"
-msgstr ""
-
-#: maps/random/rmbiome/generic/snowy.jsonDescription.Description
-msgid ""
-"Settle in the cold regions of the North, the native habitat of the wooly "
-"muskox. Here you can pine away to your content and also hunt the occasional "
-"walrus or two."
-msgstr ""
-
-#: maps/random/rmbiome/generic/snowy.jsonDescription.Description
-msgctxt "biome definition"
-msgid ""
-"Settle in the cold regions of the North, the native habitat of the wooly "
-"muskox. Here you can pine away to your content and also hunt the occasional "
-"walrus or two."
-msgstr ""
-
-#: maps/random/rmbiome/generic/snowy.jsonDescription.Title
-msgid "Snowy"
-msgstr ""
-
-#: maps/random/rmbiome/generic/snowy.jsonDescription.Title
-msgctxt "biome definition"
-msgid "Snowy"
-msgstr ""
-
-#: maps/random/rmbiome/generic/temperate.jsonDescription.Description
-msgid ""
-"Lush grasslands carpet the land, in places giving way to magnificent and "
-"diverse broadleaf forests. Poplars, pines, beeches and oaks all vie for "
-"supremacy but this root-war is a neverending struggle. Numerous apple trees "
-"dot the land, deer and sheep gorge themselves on this years fallen fruit."
-msgstr ""
-
-#: maps/random/rmbiome/generic/temperate.jsonDescription.Description
-msgctxt "biome definition"
-msgid ""
-"Lush grasslands carpet the land, in places giving way to magnificent and "
-"diverse broadleaf forests. Poplars, pines, beeches and oaks all vie for "
-"supremacy but this root-war is a neverending struggle. Numerous apple trees "
-"dot the land, deer and sheep gorge themselves on this years fallen fruit."
-msgstr ""
-
-#: maps/random/rmbiome/generic/temperate.jsonDescription.Title
-msgid "Temperate"
-msgstr ""
-
-#: maps/random/rmbiome/generic/temperate.jsonDescription.Title
-msgctxt "biome definition"
-msgid "Temperate"
-msgstr ""
-
-#: maps/random/rmbiome/generic/tropic.jsonDescription.Description
-msgid ""
-"Explore the mysterious tropics. An extremely green, but also extremely humid"
-" environment awaits. The tall Toona trees look on disapprovingly at this "
-"invasion of their privacy and ferocious tigers are determined to defend "
-"their territory at all costs."
-msgstr ""
-
-#: maps/random/rmbiome/generic/tropic.jsonDescription.Description
-msgctxt "biome definition"
-msgid ""
-"Explore the mysterious tropics. An extremely green, but also extremely humid"
-" environment awaits. The tall Toona trees look on disapprovingly at this "
-"invasion of their privacy and ferocious tigers are determined to defend "
-"their territory at all costs."
-msgstr ""
-
-#: maps/random/rmbiome/generic/tropic.jsonDescription.Title
-msgid "Tropic"
-msgstr ""
-
-#: maps/random/rmbiome/generic/tropic.jsonDescription.Title
-msgctxt "biome definition"
-msgid "Tropic"
-msgstr ""
-
-#: maps/random/rmbiome/gulf_of_bothnia/frozen_lake.jsonDescription.Description
-msgid ""
-"Solidifying it's grip, the harsh cold has succeeded in freezing up the gulf."
-" The thick ice formed is capable of withstanding any weight."
-msgstr ""
-
-#: maps/random/rmbiome/gulf_of_bothnia/frozen_lake.jsonDescription.Description
-msgctxt "biome definition"
-msgid ""
-"Solidifying it's grip, the harsh cold has succeeded in freezing up the gulf."
-" The thick ice formed is capable of withstanding any weight."
-msgstr ""
-
-#: maps/random/rmbiome/gulf_of_bothnia/frozen_lake.jsonDescription.Title
-msgid "Frozen Lake"
-msgstr ""
-
-#: maps/random/rmbiome/gulf_of_bothnia/frozen_lake.jsonDescription.Title
-msgctxt "biome definition"
-msgid "Frozen Lake"
-msgstr ""
-
-#: maps/random/rmbiome/gulf_of_bothnia/late_spring.jsonDescription.Description
-msgid ""
-"A late spring breeze ripples through the conifer forests of the Gulf of "
-"Bothnia. Herds of deer dot the landscape and playful rabbits frolick in the "
-"undergrowth."
-msgstr ""
-
-#: maps/random/rmbiome/gulf_of_bothnia/late_spring.jsonDescription.Description
-msgctxt "biome definition"
-msgid ""
-"A late spring breeze ripples through the conifer forests of the Gulf of "
-"Bothnia. Herds of deer dot the landscape and playful rabbits frolick in the "
-"undergrowth."
-msgstr ""
-
-#: maps/random/rmbiome/gulf_of_bothnia/late_spring.jsonDescription.Title
-msgid "Late Spring"
-msgstr ""
-
-#: maps/random/rmbiome/gulf_of_bothnia/late_spring.jsonDescription.Title
-msgctxt "biome definition"
-msgid "Late Spring"
-msgstr ""
-
-#: maps/random/rmbiome/gulf_of_bothnia/winter.jsonDescription.Description
-msgid ""
-"Winter has set in, carpeting the land with its first snow. The still "
-"unfrozen gulf offers great fishing opportunities."
-msgstr ""
-
-#: maps/random/rmbiome/gulf_of_bothnia/winter.jsonDescription.Description
-msgctxt "biome definition"
-msgid ""
-"Winter has set in, carpeting the land with its first snow. The still "
-"unfrozen gulf offers great fishing opportunities."
-msgstr ""
-
-#: maps/random/rmbiome/gulf_of_bothnia/winter.jsonDescription.Title
-msgid "Winter"
-msgstr ""
-
-#: maps/random/rmbiome/gulf_of_bothnia/winter.jsonDescription.Title
-msgctxt "biome definition"
-msgid "Winter"
-msgstr ""
-
-#: maps/random/rmbiome/persian_highlands/spring.jsonDescription.Description
-msgid ""
-"Spring in the highlands, yet the heat has already begun making itself felt. "
-"The short-lived green grasses are on the retreat, paving the way for "
-"scorching summer."
-msgstr ""
-
-#: maps/random/rmbiome/persian_highlands/spring.jsonDescription.Description
-msgctxt "biome definition"
-msgid ""
-"Spring in the highlands, yet the heat has already begun making itself felt. "
-"The short-lived green grasses are on the retreat, paving the way for "
-"scorching summer."
-msgstr ""
-
-#: maps/random/rmbiome/persian_highlands/spring.jsonDescription.Title
-msgid "Spring"
-msgstr ""
-
-#: maps/random/rmbiome/persian_highlands/spring.jsonDescription.Title
-msgctxt "biome definition"
-msgid "Spring"
-msgstr ""
-
-#: maps/random/rmbiome/persian_highlands/summer.jsonDescription.Description
-msgid ""
-"An arid, hostile land. The blistering heat has baked the ground to a sickly "
-"brown and the remaining trees struggle for survival."
-msgstr ""
-
-#: maps/random/rmbiome/persian_highlands/summer.jsonDescription.Description
-msgctxt "biome definition"
-msgid ""
-"An arid, hostile land. The blistering heat has baked the ground to a sickly "
-"brown and the remaining trees struggle for survival."
-msgstr ""
-
-#: maps/random/rmbiome/persian_highlands/summer.jsonDescription.Title
-msgid "Summer"
-msgstr ""
-
-#: maps/random/rmbiome/persian_highlands/summer.jsonDescription.Title
-msgctxt "biome definition"
-msgid "Summer"
-msgstr ""
+msgstr "야생 호수"
 
 #: maps/random/extinct_volcano_triggers.js:65
 msgid "It keeps on raining, we will have to evacuate soon!"
@@ -1375,7 +1027,7 @@ msgstr ""
 #: maps/scenarios/Necropolis.xml:PlayerData[0].Name:39 maps/scenarios/Saharan
 #: Oases.xml:PlayerData[0].Name:27 maps/scenarios/Sandbox -
 #: Britons.xml:PlayerData[0].Name:39 maps/scenarios/Sandbox -
-#: Gauls.xml:PlayerData[0].Name:39 maps/scenarios/Sandbox -
+#: Gauls.xml:PlayerData[1].Name:40 maps/scenarios/Sandbox -
 #: Iberians.xml:PlayerData[0].Name:39 maps/scenarios/Sandbox -
 #: Romans.xml:PlayerData[0].Name:39 maps/scenarios/Siwa
 #: Oasis.xml:PlayerData[0].Name:27 maps/scenarios/The Massacre of
@@ -1427,7 +1079,7 @@ msgstr ""
 #: (4).xml:PlayerData[0].Name:39 maps/skirmishes/Zagros Mountains
 #: (2).xml:PlayerData[0].Name:39
 msgid "Player 1"
-msgstr "플레이어 1"
+msgstr "선수 1"
 
 #: maps/scenarios/Arcadia.xml:PlayerData[1].Name:39
 #: maps/scenarios/Belgian_Bog_night.xml:PlayerData[1].Name:39
@@ -1441,7 +1093,7 @@ msgstr "플레이어 1"
 #: maps/scenarios/Necropolis.xml:PlayerData[1].Name:39 maps/scenarios/Saharan
 #: Oases.xml:PlayerData[1].Name:27 maps/scenarios/Sandbox -
 #: Britons.xml:PlayerData[1].Name:39 maps/scenarios/Sandbox -
-#: Gauls.xml:PlayerData[1].Name:39 maps/scenarios/Sandbox -
+#: Gauls.xml:PlayerData[2].Name:40 maps/scenarios/Sandbox -
 #: Iberians.xml:PlayerData[1].Name:39 maps/scenarios/Sandbox -
 #: Romans.xml:PlayerData[1].Name:39 maps/scenarios/Siwa
 #: Oasis.xml:PlayerData[1].Name:27 maps/scenarios/The Massacre of
@@ -1492,7 +1144,7 @@ msgstr "플레이어 1"
 #: (4).xml:PlayerData[1].Name:39 maps/skirmishes/Zagros Mountains
 #: (2).xml:PlayerData[1].Name:39
 msgid "Player 2"
-msgstr "플레이어 2"
+msgstr "선수 2"
 
 #: maps/scenarios/Arcadia.xml:Name:39
 msgid "Arcadia"
@@ -1541,7 +1193,7 @@ msgstr "앙티폴리스"
 
 #: maps/scenarios/Azure Coast.xml:PlayerData[1].Name:39
 msgid "Nikaia"
-msgstr ""
+msgstr "니카이아"
 
 #: maps/scenarios/Azure Coast.xml:PlayerData[2].Name:39
 msgid "Massalia"
@@ -1549,23 +1201,23 @@ msgstr "마르세유"
 
 #: maps/scenarios/Azure Coast.xml:PlayerData[3].Name:39
 msgid "Olbia"
-msgstr ""
+msgstr "올비아"
 
 #: maps/scenarios/Azure Coast.xml:PlayerData[4].Name:39
 msgid "Deciates"
-msgstr ""
+msgstr "데키아테스"
 
 #: maps/scenarios/Azure Coast.xml:PlayerData[5].Name:39
 msgid "Salluvii"
-msgstr ""
+msgstr "살루비이"
 
 #: maps/scenarios/Azure Coast.xml:PlayerData[6].Name:39
 msgid "Cavares"
-msgstr ""
+msgstr "카바레스"
 
 #: maps/scenarios/Azure Coast.xml:PlayerData[7].Name:39
 msgid "Verguni"
-msgstr ""
+msgstr "베르구니"
 
 #: maps/scenarios/Azure Coast.xml:Name:39
 msgid "Azure Coast 1"
@@ -1583,16 +1235,16 @@ msgstr "로마"
 
 #: maps/scenarios/Battle for the Tiber.xml:PlayerData[1].Name:27
 msgid "Veii"
-msgstr ""
+msgstr "베이이"
 
 #: maps/scenarios/Battle for the Tiber.xml:PlayerData[2].Name:27
 #: maps/scenarios/Battle for the Tiber.xml:PlayerData[3].Name:27
 msgid "Gallic Invaders"
-msgstr ""
+msgstr "갈리아 침입자"
 
 #: maps/scenarios/Battle for the Tiber.xml:Name:27
 msgid "Battle for the Tiber"
-msgstr ""
+msgstr "테베레 강 전투"
 
 #: maps/scenarios/Belgian_Bog_night.xml:Description:39
 msgid "Two Celtic tribes face off across a large bog at night."
@@ -1600,11 +1252,11 @@ msgstr ""
 
 #: maps/scenarios/Belgian_Bog_night.xml:Name:39
 msgid "Belgian Bog Night"
-msgstr ""
+msgstr "벨기에 늪지의 밤"
 
 #: maps/scenarios/Bridge_demo.xml:PlayerData[0].Name:27
 msgid "Bridge Demo"
-msgstr ""
+msgstr "다리 시연용"
 
 #: maps/scenarios/Bridge_demo.xml:PlayerData[1].Name:27
 msgid "Other"
@@ -1620,7 +1272,7 @@ msgstr ""
 
 #: maps/scenarios/Campaign Test Map 2 - heightmap.xml:Name:39
 msgid "Campaign Map - Test"
-msgstr "캠페인맵 - 테스트용"
+msgstr "캠페인 지도 - 테스트용"
 
 #: maps/scenarios/Campaign Test Map.xml:Description:39
 msgid "A test map for potential Strategic Campaigns."
@@ -1646,11 +1298,11 @@ msgstr "메가라"
 
 #: maps/scenarios/Campaign Test Map.xml:PlayerData[4].Name:39
 msgid "Eretria"
-msgstr ""
+msgstr "에레트리아"
 
 #: maps/scenarios/Campaign Test Map.xml:PlayerData[5].Name:39
 msgid "Chalcis"
-msgstr ""
+msgstr "할키스"
 
 #: maps/scenarios/Campaign Test Map.xml:PlayerData[6].Name:39
 msgid "Peloponnesian League"
@@ -1670,19 +1322,19 @@ msgstr ""
 
 #: maps/scenarios/Cinema_Demo.xml:PlayerData[1].Name:40
 msgid "Xerxes I"
-msgstr ""
+msgstr "크세르크세스 1세"
 
 #: maps/scenarios/Cinema_Demo.xml:PlayerData[2].Name:40
 msgid "You"
-msgstr ""
+msgstr "당신"
 
 #: maps/scenarios/Cinema_Demo.xml:Name:40
 msgid "Cinema Demo"
-msgstr ""
+msgstr "영화 시연용"
 
 #: maps/scenarios/Combat_demo.xml:Name:27
 msgid "Combat Demo"
-msgstr ""
+msgstr "전투 시연용"
 
 #: maps/scenarios/Combat_demo.xml:Description:27
 msgid ""
@@ -1718,7 +1370,7 @@ msgstr ""
 #: maps/scenarios/Necropolis.xml:PlayerData[2].Name:39 maps/scenarios/Saharan
 #: Oases.xml:PlayerData[2].Name:27 maps/scenarios/Sandbox -
 #: Britons.xml:PlayerData[2].Name:39 maps/scenarios/Sandbox -
-#: Gauls.xml:PlayerData[2].Name:39 maps/scenarios/Siwa
+#: Gauls.xml:PlayerData[3].Name:40 maps/scenarios/Siwa
 #: Oasis.xml:PlayerData[2].Name:27 maps/skirmishes/Barcania
 #: (3).xml:PlayerData[2].Name:27 maps/skirmishes/Caspian Sea
 #: (2v2).xml:PlayerData[2].Name:39 maps/skirmishes/Corinthian Isthmus
@@ -1739,7 +1391,7 @@ msgstr ""
 #: (4).xml:PlayerData[2].Name:40 maps/skirmishes/Watering Holes
 #: (4).xml:PlayerData[2].Name:39
 msgid "Player 3"
-msgstr "플레이어 3"
+msgstr "선수 3"
 
 #: maps/scenarios/Death Canyon - Invasion Force.xml:Name:39
 msgid "Death Canyon - Invasion Force"
@@ -1751,7 +1403,7 @@ msgstr ""
 
 #: maps/scenarios/Demo_Trading.xml:Name:27
 msgid "Trading Demo"
-msgstr ""
+msgstr "거래 시연용"
 
 #: maps/scenarios/Eire and Albion.xml:Description:27
 msgid ""
@@ -1791,7 +1443,7 @@ msgstr ""
 #: (4).xml:PlayerData[3].Name:40 maps/skirmishes/Watering Holes
 #: (4).xml:PlayerData[3].Name:39
 msgid "Player 4"
-msgstr "플레이어 4"
+msgstr "선수 4"
 
 #: maps/scenarios/Fast Oasis.xml:Name:27
 msgid "Fast Oasis"
@@ -1799,7 +1451,7 @@ msgstr ""
 
 #: maps/scenarios/Fishing_demo.xml:Name:27
 msgid "Fishing Demo"
-msgstr "낚시 데모 "
+msgstr "낚시 시연용"
 
 #: maps/scenarios/Fishing_demo.xml:Description:27
 msgid "Test out fishing with a fishing boat. Still in development."
@@ -1811,7 +1463,7 @@ msgstr ""
 
 #: maps/scenarios/Flight_demo.xml:Name:27
 msgid "Flight Demo"
-msgstr "비행 데모"
+msgstr "비행 시연용"
 
 #: maps/scenarios/Flight_demo_2.xml:Description:27
 msgid "Fly some Mustangs."
@@ -1819,7 +1471,7 @@ msgstr "머스탱들을 조종해보세요. "
 
 #: maps/scenarios/Flight_demo_2.xml:Name:27
 msgid "Flight Demo 2"
-msgstr "비행 데모 2 "
+msgstr "비행 시연용 2 "
 
 #: maps/scenarios/Gold_Rush.xml:Description:27
 msgid ""
@@ -1903,7 +1555,7 @@ msgstr ""
 
 #: maps/scenarios/Multiplayer_demo.xml:Name:27
 msgid "Multiplayer Demo"
-msgstr "멀티플레이어 데모 "
+msgstr "함께 놀기 시연용"
 
 #: maps/scenarios/Multiplayer_demo.xml:Description:27
 msgid ""
@@ -1968,7 +1620,7 @@ msgstr ""
 
 #: maps/scenarios/Peloponnese.xml:PlayerData[4].Name:39
 msgid "Corinth"
-msgstr ""
+msgstr "코린트"
 
 #: maps/scenarios/Peloponnese.xml:Name:39
 msgid "Peloponnesian Wars"
@@ -1992,7 +1644,7 @@ msgstr "폴리네시아"
 
 #: maps/scenarios/Resource_demo.xml:Name:27
 msgid "Resource demo"
-msgstr "자원 데모"
+msgstr "자원 시연용"
 
 #: maps/scenarios/Resource_demo.xml:Description:27
 msgid "Demo map for resource gathering."
@@ -2060,18 +1712,18 @@ msgid "Sandbox - The Athenians"
 msgstr "모래통 - 아테네인"
 
 #: maps/scenarios/Sandbox - Britons.xml:Description:39 maps/scenarios/Sandbox
-#: - Gauls.xml:Description:39
+#: - Gauls.xml:Description:40
 msgid "Play around with the Gallic faction in an idyllic sandbox setting."
 msgstr ""
 
 #: maps/scenarios/Sandbox - Britons.xml:PlayerData[3].Name:39
-#: maps/scenarios/Sandbox - Gauls.xml:PlayerData[3].Name:39
+#: maps/scenarios/Sandbox - Gauls.xml:PlayerData[4].Name:40
 msgid "Roman Interlopers"
 msgstr "로마 침입자"
 
 #: maps/scenarios/Sandbox - Britons.xml:Name:39
 msgid "Sandbox - The Britons"
-msgstr "모래통 - 브리튼인"
+msgstr "모래통 - 브리톤"
 
 #: maps/scenarios/Sandbox - Carthaginians.xml:Description:39
 msgid "Explore the Carthaginian Buildings and Units."
@@ -2089,19 +1741,19 @@ msgstr ""
 
 #: maps/scenarios/Sandbox - Carthaginians.xml:Name:39
 msgid "Sandbox - The Carthaginians"
-msgstr "모래통 - 카르타고인"
+msgstr "모래통 - 카르타고"
 
-#: maps/scenarios/Sandbox - Gauls.xml:Name:39
+#: maps/scenarios/Sandbox - Gauls.xml:Name:40
 msgid "Sandbox - The Gauls"
-msgstr "모래통 - 갈리아인"
+msgstr "모래통 - 갈리아"
 
 #: maps/scenarios/Sandbox - Iberians.xml:Description:39
 msgid "A demo map for the Iberians."
-msgstr "이베리안들을 위한 데모 지도입니다. "
+msgstr "이베리아를 위한 시연용 지도입니다. "
 
 #: maps/scenarios/Sandbox - Iberians.xml:Name:39
 msgid "Sandbox - The Iberians"
-msgstr "모래통 - 이베리아안"
+msgstr "모래통 - 이베리아"
 
 #: maps/scenarios/Sandbox - Kushites.xml:Description:40
 msgid "Play the Kushites faction in a non-threatening sandbox scenario."
@@ -2109,15 +1761,15 @@ msgstr ""
 
 #: maps/scenarios/Sandbox - Kushites.xml:PlayerData[1].Name:40
 msgid "Kushites"
-msgstr "쿠시인"
+msgstr "쿠시"
 
 #: maps/scenarios/Sandbox - Kushites.xml:PlayerData[2].Name:40
 msgid "Egyptians"
-msgstr ""
+msgstr "이집트"
 
 #: maps/scenarios/Sandbox - Kushites.xml:Name:40
 msgid "Sandbox - The Kushites"
-msgstr ""
+msgstr "모래통 - 쿠시"
 
 #: maps/scenarios/Sandbox - Macedonians.xml:Description:39
 msgid ""
@@ -2126,11 +1778,11 @@ msgstr ""
 
 #: maps/scenarios/Sandbox - Macedonians.xml:PlayerData[0].Name:39
 msgid "The Macedonians"
-msgstr "마케도니아인"
+msgstr "마케도니아"
 
 #: maps/scenarios/Sandbox - Macedonians.xml:Name:39
 msgid "Sandbox - The Macedonians"
-msgstr "모래통 - 마케도니아인"
+msgstr "모래통 - 마케도니아"
 
 #: maps/scenarios/Sandbox - Mauryas.xml:Description:39
 msgid "Mauryan Indian faction showcase map."
@@ -2138,7 +1790,7 @@ msgstr ""
 
 #: maps/scenarios/Sandbox - Mauryas.xml:PlayerData[0].Name:39
 msgid "Mauryan Indians"
-msgstr ""
+msgstr "마우리아 인도"
 
 #: maps/scenarios/Sandbox - Mauryas.xml:PlayerData[1].Name:39
 msgid "Enemy"
@@ -2146,7 +1798,7 @@ msgstr "적"
 
 #: maps/scenarios/Sandbox - Mauryas.xml:Name:39
 msgid "Sandbox - The Mauryas"
-msgstr "모래통 - 마우리아인"
+msgstr "모래통 - 마우리아"
 
 #: maps/scenarios/Sandbox - Persians.xml:Description:39
 msgid "Demo Map. Play with the Persian civilisation in a sandbox setting."
@@ -2154,11 +1806,11 @@ msgstr ""
 
 #: maps/scenarios/Sandbox - Persians.xml:PlayerData[0].Name:39
 msgid "Achaemenids"
-msgstr ""
+msgstr "아케메네스"
 
 #: maps/scenarios/Sandbox - Persians.xml:Name:39
 msgid "Sandbox - The Persians"
-msgstr "모래통 - 페르시아인"
+msgstr "모래통 - 페르시아"
 
 #: maps/scenarios/Sandbox - Ptolemies 2.xml:Description:39
 msgid ""
@@ -2175,11 +1827,11 @@ msgstr "셀레우코스"
 
 #: maps/scenarios/Sandbox - Ptolemies 2.xml:PlayerData[3].Name:39
 msgid "Libyans"
-msgstr "리비아인"
+msgstr "리비아"
 
 #: maps/scenarios/Sandbox - Ptolemies 2.xml:Name:39
 msgid "Sandbox - The Ptolemaic Egyptians 2"
-msgstr "모래통 - 프톨레마이오스 이집트인 2"
+msgstr "모래통 - 프톨레마이오스 이집트 2"
 
 #: maps/scenarios/Sandbox - Ptolemies.xml:Description:39
 #: maps/skirmishes/Sporades Islands (2).xml:Description:39
@@ -2196,7 +1848,7 @@ msgstr "카우틸랴"
 
 #: maps/scenarios/Sandbox - Ptolemies.xml:Name:39
 msgid "Sandbox - The Ptolemaic Egyptians"
-msgstr "모래통 - 프톨레마이오스 이집트인"
+msgstr "모래통 - 프톨레마이오스 이집트"
 
 #: maps/scenarios/Sandbox - Romans.xml:Description:39
 msgid "A sandbox scenario for players to try out the Roman civilisation."
@@ -2204,7 +1856,7 @@ msgstr ""
 
 #: maps/scenarios/Sandbox - Romans.xml:Name:39
 msgid "Sandbox - The Republican Romans"
-msgstr "모래통 - 공화정 로마인"
+msgstr "모래통 - 공화정 로마"
 
 #: maps/scenarios/Sandbox - Seleucids.xml:Description:39
 msgid "A sandbox scenario for players to try out the Seleucid civilisation."
@@ -2212,15 +1864,15 @@ msgstr ""
 
 #: maps/scenarios/Sandbox - Seleucids.xml:PlayerData[0].Name:39
 msgid "The Seleucids"
-msgstr "셀레우코스인"
+msgstr "셀레우코스"
 
 #: maps/scenarios/Sandbox - Seleucids.xml:PlayerData[1].Name:39
 msgid "The Ptolemies"
-msgstr "프톨레마이오스인"
+msgstr "프톨레마이오스"
 
 #: maps/scenarios/Sandbox - Seleucids.xml:Name:39
 msgid "Sandbox - The Seleucids"
-msgstr "모래통 - 셀레우코스인"
+msgstr "모래통 - 셀레우코스"
 
 #: maps/scenarios/Sandbox - Spartans.xml:Description:39
 msgid ""
@@ -2229,11 +1881,11 @@ msgstr ""
 
 #: maps/scenarios/Sandbox - Spartans.xml:Name:39
 msgid "Sandbox - The Spartans"
-msgstr "모래통 - 스파르타인"
+msgstr "모래통 - 스파르타"
 
 #: maps/scenarios/Savanna Ravine.xml:Name:39
 msgid "Savanna Ravine"
-msgstr ""
+msgstr "사바나 좁은 골짜기"
 
 #: maps/scenarios/Savanna Ravine.xml:Description:39
 msgid ""
@@ -2265,7 +1917,7 @@ msgstr "세렝게티  1"
 
 #: maps/scenarios/Ship Formations.xml:Description:27
 msgid "Ship formations mockup."
-msgstr "선박 구조물 모형.???"
+msgstr "선박 진형 모형.???"
 
 #: maps/scenarios/Ship Formations.xml:PlayerData[0].Name:27
 msgid "Ships"
@@ -2273,7 +1925,7 @@ msgstr "선박들"
 
 #: maps/scenarios/Ship Formations.xml:Name:27
 msgid "Ship Formations"
-msgstr "선박 구조물"
+msgstr "선박 진형"
 
 #: maps/scenarios/Siwa Oasis.xml:Description:27
 msgid ""
@@ -2291,7 +1943,7 @@ msgstr ""
 
 #: maps/scenarios/Territory Demo.xml:Name:27
 msgid "Territory Demo"
-msgstr "영역 데모"
+msgstr "영역 시연용"
 
 #: maps/scenarios/The Massacre of Delphi.xml:Description:39
 msgid ""
@@ -2326,7 +1978,7 @@ msgstr "아리오바르자네스"
 
 #: maps/scenarios/The Persian Gates.xml:PlayerData[3].Name:27
 msgid "Persians"
-msgstr "페르시아인?? 또는 국가"
+msgstr "페르시아"
 
 #: maps/scenarios/The Persian Gates.xml:Name:27
 msgid "The Persian Gates"
@@ -2372,7 +2024,7 @@ msgstr ""
 
 #: maps/scenarios/Triggers_demo.xml:Name:39
 msgid "Triggers Demo"
-msgstr "방아쇠 데모"
+msgstr "방아쇠 시연용"
 
 #: maps/scenarios/Tropical Island.xml:Description:39
 msgid "Multiplayer map. A tropical paradise."
@@ -2384,7 +2036,7 @@ msgstr "열대섬"
 
 #: maps/scenarios/Units_demo.xml:Name:28
 msgid "Units Demo"
-msgstr "부대 데모"
+msgstr "부대 시연용"
 
 #: maps/scenarios/Units_demo.xml:Description:28
 msgid "Every unit in the game."
@@ -2442,7 +2094,7 @@ msgstr ""
 
 #: maps/scenarios/shipattacks.xml:Name:27
 msgid "Ships Demo"
-msgstr "배 데모"
+msgstr "배 시연용"
 
 #: maps/scenarios/temperate map.xml:Name:27
 msgid "Base Temperate Map"
@@ -2489,11 +2141,11 @@ msgstr ""
 
 #: maps/skirmishes/Bactria (2).xml:Name:39
 msgid "Bactria (2)"
-msgstr ""
+msgstr "박트리아 (2)"
 
 #: maps/skirmishes/Barcania (3).xml:Name:27
 msgid "Barcania (3)"
-msgstr ""
+msgstr "바르카니아 (3)"
 
 #: maps/skirmishes/Barcania (3).xml:Description:27
 msgid ""
@@ -2545,11 +2197,11 @@ msgstr "카스피 해 (2v2)"
 
 #: maps/skirmishes/Corinthian Isthmus (2).xml:Name:39
 msgid "Corinthian Isthmus (2)"
-msgstr ""
+msgstr "코린트 지협 (2)"
 
 #: maps/skirmishes/Corinthian Isthmus (4).xml:Name:40
 msgid "Corinthian Isthmus (4)"
-msgstr ""
+msgstr "코린트 지협 (4)"
 
 #: maps/skirmishes/Corsica and Sardinia (4).xml:Description:39
 msgid ""
@@ -2630,31 +2282,31 @@ msgstr ""
 
 #: maps/skirmishes/Egypt (3v3).xml:Name:40
 msgid "Egypt (3v3)"
-msgstr ""
+msgstr "이집트 (3v3)"
 
 #: maps/skirmishes/Egypt (3v3).xml:PlayerData[1].Name:40
 msgid "Alexandria"
-msgstr ""
+msgstr "알렉산드리아"
 
 #: maps/skirmishes/Egypt (3v3).xml:PlayerData[2].Name:40
 msgid "Theben"
-msgstr ""
+msgstr "테베??"
 
 #: maps/skirmishes/Egypt (3v3).xml:PlayerData[3].Name:40
 msgid "Siwa"
-msgstr ""
+msgstr "시와"
 
 #: maps/skirmishes/Egypt (3v3).xml:PlayerData[4].Name:40
 msgid "Sinai"
-msgstr ""
+msgstr "시나이"
 
 #: maps/skirmishes/Egypt (3v3).xml:PlayerData[5].Name:40
 msgid "Memphis"
-msgstr ""
+msgstr "멤피스"
 
 #: maps/skirmishes/Egypt (3v3).xml:PlayerData[6].Name:40
 msgid "Cyrene"
-msgstr ""
+msgstr "키레네"
 
 #: maps/skirmishes/Egypt (3v3).xml:Description:40
 msgid ""
@@ -3025,7 +2677,195 @@ msgstr ""
 msgid "Zagros Mountains (2)"
 msgstr ""
 
+#: maps/random/rmbiome/fields_of_meroe/dry.jsonDescription.Description
+msgctxt "biome definition"
+msgid ""
+"The vitalizing waters of the Nile sustain life along its banks, while the "
+"long dry season scorches the land."
+msgstr ""
+
+#: maps/random/rmbiome/fields_of_meroe/dry.jsonDescription.Title
+msgctxt "biome definition"
+msgid "Dry Season"
+msgstr "건조한 계절??건기"
+
+#: maps/random/rmbiome/fields_of_meroe/rainy.jsonDescription.Description
+msgctxt "biome definition"
+msgid ""
+"Revelling in the much awaited rain, the baked land transforms into a lush "
+"haven for both man and beast."
+msgstr ""
+
+#: maps/random/rmbiome/fields_of_meroe/rainy.jsonDescription.Title
+msgctxt "biome definition"
+msgid "Rainy Season"
+msgstr "비오는 계절??우기"
+
+#: maps/random/rmbiome/generic/alpine.jsonDescription.Description
+msgctxt "biome definition"
+msgid ""
+"A region in the high snowy mountains. Biting winds sweep through the "
+"abundant conifer forests, making even the more resilient deer and mountain "
+"goats shiver."
+msgstr ""
+
+#: maps/random/rmbiome/generic/alpine.jsonDescription.Title
+msgctxt "biome definition"
+msgid "Alpine"
+msgstr "높은산??"
+
+#: maps/random/rmbiome/generic/autumn.jsonDescription.Description
+msgctxt "biome definition"
+msgid ""
+"Autumn at its peak. The landscape is a dazzling dash of colors irrevocably "
+"intertwined. The native beech and oak trees of this temperate zone display a"
+" multi-colored foliage while the evergreen pines look on with indifference "
+"at the approaching winter."
+msgstr ""
+
+#: maps/random/rmbiome/generic/autumn.jsonDescription.Title
+msgctxt "biome definition"
+msgid "Autumn"
+msgstr "가을"
+
+#: maps/random/rmbiome/generic/desert.jsonDescription.Description
+msgctxt "biome definition"
+msgid ""
+"A semi-desert area that boasts numerous clumps of date palms and tamarix "
+"trees. Herds of camels roam the wild and the occasional gazelle jumps up in "
+"fright at being disturbed."
+msgstr ""
+
+#: maps/random/rmbiome/generic/desert.jsonDescription.Title
+msgctxt "biome definition"
+msgid "Desert"
+msgstr ""
+
+#: maps/random/rmbiome/generic/mediterranean.jsonDescription.Description
+msgctxt "biome definition"
+msgid ""
+"Start in a region blessed with the Mediterranean climate, a warm and "
+"inviting land. The cypresses are in a perpetual struggle with the dominant "
+"fan palms while deer graze in their shadows, blissfully unaware."
+msgstr ""
+
 #: maps/random/rmbiome/generic/mediterranean.jsonDescription.Title
 msgctxt "biome definition"
 msgid "Mediterranean"
 msgstr "지중해"
+
+#: maps/random/rmbiome/generic/savanna.jsonDescription.Description
+msgctxt "biome definition"
+msgid ""
+"The savanna, a dry climate in which only the hardy Baobab trees thrive. "
+"Solitary gazelles graze the sparse grass, while herds of zebras, wildebeest,"
+" giraffes or elephants roam the wild in search of food."
+msgstr ""
+
+#: maps/random/rmbiome/generic/savanna.jsonDescription.Title
+msgctxt "biome definition"
+msgid "Savanna"
+msgstr "사바나"
+
+#: maps/random/rmbiome/generic/snowy.jsonDescription.Description
+msgctxt "biome definition"
+msgid ""
+"Settle in the cold regions of the North, the native habitat of the wooly "
+"muskox. Here you can pine away to your content and also hunt the occasional "
+"walrus or two."
+msgstr ""
+
+#: maps/random/rmbiome/generic/snowy.jsonDescription.Title
+msgctxt "biome definition"
+msgid "Snowy"
+msgstr ""
+
+#: maps/random/rmbiome/generic/temperate.jsonDescription.Description
+msgctxt "biome definition"
+msgid ""
+"Lush grasslands carpet the land, in places giving way to magnificent and "
+"diverse broadleaf forests. Poplars, pines, beeches and oaks all vie for "
+"supremacy but this root-war is a neverending struggle. Numerous apple trees "
+"dot the land, deer and sheep gorge themselves on this years fallen fruit."
+msgstr ""
+
+#: maps/random/rmbiome/generic/temperate.jsonDescription.Title
+msgctxt "biome definition"
+msgid "Temperate"
+msgstr ""
+
+#: maps/random/rmbiome/generic/tropic.jsonDescription.Description
+msgctxt "biome definition"
+msgid ""
+"Explore the mysterious tropics. An extremely green, but also extremely humid"
+" environment awaits. The tall Toona trees look on disapprovingly at this "
+"invasion of their privacy and ferocious tigers are determined to defend "
+"their territory at all costs."
+msgstr ""
+
+#: maps/random/rmbiome/generic/tropic.jsonDescription.Title
+msgctxt "biome definition"
+msgid "Tropic"
+msgstr ""
+
+#: maps/random/rmbiome/gulf_of_bothnia/frozen_lake.jsonDescription.Description
+msgctxt "biome definition"
+msgid ""
+"Solidifying it's grip, the harsh cold has succeeded in freezing up the gulf."
+" The thick ice formed is capable of withstanding any weight."
+msgstr ""
+
+#: maps/random/rmbiome/gulf_of_bothnia/frozen_lake.jsonDescription.Title
+msgctxt "biome definition"
+msgid "Frozen Lake"
+msgstr ""
+
+#: maps/random/rmbiome/gulf_of_bothnia/late_spring.jsonDescription.Description
+msgctxt "biome definition"
+msgid ""
+"A late spring breeze ripples through the conifer forests of the Gulf of "
+"Bothnia. Herds of deer dot the landscape and playful rabbits frolick in the "
+"undergrowth."
+msgstr ""
+
+#: maps/random/rmbiome/gulf_of_bothnia/late_spring.jsonDescription.Title
+msgctxt "biome definition"
+msgid "Late Spring"
+msgstr ""
+
+#: maps/random/rmbiome/gulf_of_bothnia/winter.jsonDescription.Description
+msgctxt "biome definition"
+msgid ""
+"Winter has set in, carpeting the land with its first snow. The still "
+"unfrozen gulf offers great fishing opportunities."
+msgstr ""
+
+#: maps/random/rmbiome/gulf_of_bothnia/winter.jsonDescription.Title
+msgctxt "biome definition"
+msgid "Winter"
+msgstr "겨울"
+
+#: maps/random/rmbiome/persian_highlands/spring.jsonDescription.Description
+msgctxt "biome definition"
+msgid ""
+"Spring in the highlands, yet the heat has already begun making itself felt. "
+"The short-lived green grasses are on the retreat, paving the way for "
+"scorching summer."
+msgstr ""
+
+#: maps/random/rmbiome/persian_highlands/spring.jsonDescription.Title
+msgctxt "biome definition"
+msgid "Spring"
+msgstr "봄"
+
+#: maps/random/rmbiome/persian_highlands/summer.jsonDescription.Description
+msgctxt "biome definition"
+msgid ""
+"An arid, hostile land. The blistering heat has baked the ground to a sickly "
+"brown and the remaining trees struggle for survival."
+msgstr ""
+
+#: maps/random/rmbiome/persian_highlands/summer.jsonDescription.Title
+msgctxt "biome definition"
+msgid "Summer"
+msgstr "여름"

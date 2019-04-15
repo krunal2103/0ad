@@ -4,6 +4,7 @@
 # 
 # Translators:
 # Facundo Abiega <abiegafacundo@gmail.com>, 2018
+# Facundo Decena <facundo.decena@gmail.com>, 2019
 # Guillermo Gini <guillermofgini@gmail.com>, 2016
 # Iván Pstyga <ivanpstyga@gmail.com>, 2017
 # PoinoComer <ignacio.torea@gmail.com>, 2015
@@ -12,8 +13,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0 A.D.\n"
-"POT-Creation-Date: 2019-02-25 09:44+0100\n"
-"PO-Revision-Date: 2019-02-25 14:51+0000\n"
+"POT-Creation-Date: 2019-03-22 09:44+0100\n"
+"PO-Revision-Date: 2019-03-22 15:29+0000\n"
 "Last-Translator: Adrián Chaves Fernández <adriyetichaves@gmail.com>\n"
 "Language-Team: Spanish (Argentina) (http://www.transifex.com/wildfire-games/0ad/language/es_AR/)\n"
 "MIME-Version: 1.0\n"
@@ -287,10 +288,6 @@ msgstr "Perro de guerra"
 #: simulation/templates/template_unit_dog.xml:41
 msgid "Cannot attack structures."
 msgstr "No puede atacar estructuras"
-
-#: simulation/templates/template_unit_fauna_fish.xml:11
-msgid "Gather food from this bountiful oceanic resource."
-msgstr "Recolecta alimento de este abundante recurso oceánico."
 
 #: simulation/templates/template_unit_fauna_hunt_whale.xml:9
 msgid "Kill, then gather food from this bountiful oceanic resource."
@@ -1778,7 +1775,7 @@ msgstr "Hemiolos"
 
 #: simulation/templates/units/mace_ship_trireme.xml:6
 msgid "Macedonian Trireme"
-msgstr ""
+msgstr "Trirreme Macedonio"
 
 #: simulation/templates/units/mace_support_female_citizen.xml:5
 msgid "Gýnē Makedonikḗ"
@@ -2476,7 +2473,7 @@ msgstr "Scorpio"
 
 #: simulation/templates/units/rome_ship_bireme.xml:5
 msgid "Liburna"
-msgstr ""
+msgstr "Libúrnica"
 
 #: simulation/templates/units/rome_ship_fishing.xml:5
 msgid "Navicula Piscatoria"
@@ -2767,7 +2764,7 @@ msgstr "Hoplítēs Períoikos"
 
 #: simulation/templates/units/spart_ship_trireme.xml:6
 msgid "Spartan Trireme"
-msgstr ""
+msgstr "Trirreme Espartano"
 
 #: simulation/templates/units/spart_support_female_citizen.xml:21
 msgid "Spartan Woman"
@@ -2811,4 +2808,4 @@ msgstr "Melanochitones"
 
 #: simulation/templates/units/viking_longship.xml:4
 msgid "Longship"
-msgstr ""
+msgstr "Drakar"

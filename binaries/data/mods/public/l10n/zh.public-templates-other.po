@@ -15,8 +15,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0 A.D.\n"
-"POT-Creation-Date: 2019-02-08 09:44+0100\n"
-"PO-Revision-Date: 2019-02-19 04:03+0000\n"
+"POT-Creation-Date: 2019-04-01 10:10+0200\n"
+"PO-Revision-Date: 2019-04-05 14:08+0000\n"
 "Last-Translator: liulitchi <xingzuo88@qq.com>\n"
 "Language-Team: Chinese (http://www.transifex.com/wildfire-games/0ad/language/zh/)\n"
 "MIME-Version: 1.0\n"
@@ -28,6 +28,15 @@ msgstr ""
 #: simulation/templates/template_gaia.xml:7
 msgid "Gaia"
 msgstr "大自然"
+
+#: simulation/templates/template_gaia_fish.xml:8
+#: simulation/templates/gaia/fauna_fish.xml:4
+msgid "Fish"
+msgstr "鱼"
+
+#: simulation/templates/template_gaia_fish.xml:10
+msgid "Gather food from this bountiful oceanic resource."
+msgstr "从丰富的海洋资源中采集食物"
 
 #: simulation/templates/template_gaia_flora_bush.xml:8
 msgid "Bush"
@@ -116,6 +125,14 @@ msgstr "建筑"
 #: simulation/templates/template_unit.xml:42
 msgid "Unit"
 msgstr "单位"
+
+#: simulation/templates/template_wallset.xml:11
+msgid "City Wall"
+msgstr "城墙"
+
+#: simulation/templates/template_wallset.xml:12
+msgid "Wall off your town for a stout defense."
+msgstr "在城镇周围建造围墙，可以用来侦查和防御。"
 
 #: simulation/templates/campaigns/army_mace_hero_alexander.xml:27
 msgid "Army of Alexander the Great."
@@ -279,13 +296,6 @@ msgstr "非洲森林象"
 #: simulation/templates/gaia/fauna_elephant_north_african.xml:12
 msgid "Loxodonta cyclotis"
 msgstr "非洲森林象"
-
-#: simulation/templates/gaia/fauna_fish.xml:4
-#: simulation/templates/gaia/fauna_fish.xml:5
-#: simulation/templates/gaia/fauna_fish_tilapia.xml:5
-#: simulation/templates/gaia/fauna_fish_tuna.xml:5
-msgid "Fish"
-msgstr "鱼"
 
 #: simulation/templates/gaia/fauna_fish_tilapia.xml:4
 msgid "Tilapia"
@@ -537,13 +547,48 @@ msgstr "阿勒颇松树"
 msgid "Apple Tree"
 msgstr "苹果树"
 
+#: simulation/templates/gaia/flora_tree_bamboo.xml:4
+#: simulation/templates/gaia/flora_tree_bamboo_single.xml:4
+msgid "Bamboo"
+msgstr "竹子"
+
+#: simulation/templates/gaia/flora_tree_banyan.xml:8
+msgid "Banyan"
+msgstr "榕树"
+
 #: simulation/templates/gaia/flora_tree_baobab.xml:8
+#: simulation/templates/gaia/flora_tree_baobab_3_mature.xml:8
 msgid "Baobab"
 msgstr "面包树"
+
+#: simulation/templates/gaia/flora_tree_baobab_1_sapling.xml:4
+msgid "Baobab Sapling"
+msgstr "猴面包树树苗"
+
+#: simulation/templates/gaia/flora_tree_baobab_2_young.xml:4
+msgid "Young Baobab"
+msgstr "小型猴面包树"
+
+#: simulation/templates/gaia/flora_tree_baobab_4_dead.xml:8
+msgid "Dead Baobab"
+msgstr "枯猴面包树"
 
 #: simulation/templates/gaia/flora_tree_carob.xml:4
 msgid "Carob Tree"
 msgstr "角豆树"
+
+#: simulation/templates/gaia/flora_tree_cedar_atlas_1_sapling.xml:4
+msgid "Atlas Cedar Sapling"
+msgstr "杉树苗"
+
+#: simulation/templates/gaia/flora_tree_cedar_atlas_2_young.xml:4
+#: simulation/templates/gaia/flora_tree_cedar_atlas_3_mature.xml:4
+msgid "Atlas Cedar"
+msgstr "杉树"
+
+#: simulation/templates/gaia/flora_tree_cedar_atlas_4_dead.xml:4
+msgid "Dead Atlas Cedar"
+msgstr "枯杉树"
 
 #: simulation/templates/gaia/flora_tree_cretan_date_palm_patch.xml:8
 #: simulation/templates/gaia/flora_tree_cretan_date_palm_short.xml:4
@@ -558,6 +603,10 @@ msgstr "柏树"
 #: simulation/templates/gaia/flora_tree_date_palm.xml:4
 msgid "Date Palm"
 msgstr "海枣"
+
+#: simulation/templates/gaia/flora_tree_date_palm_fruit.xml:4
+msgid "Fruiting Date Palm"
+msgstr "结枣棕榈"
 
 #: simulation/templates/gaia/flora_tree_dead.xml:4
 msgid "Dead Tree"
@@ -575,6 +624,14 @@ msgstr "无花果"
 #: simulation/templates/gaia/flora_tree_fig.xml:8
 msgid "Gather figs for Food."
 msgstr "收集无花果作为食物。"
+
+#: simulation/templates/gaia/flora_tree_fir_sapling.xml:4
+msgid "Fir Sapling"
+msgstr "杉树苗"
+
+#: simulation/templates/gaia/flora_tree_mangrove.xml:4
+msgid "Mangrove"
+msgstr "红树"
 
 #: simulation/templates/gaia/flora_tree_medit_fan_palm.xml:4
 msgid "Mediterranean Fan Palm"
@@ -596,6 +653,14 @@ msgstr "大橡树"
 msgid "Olive Tree"
 msgstr "橄榄树"
 
+#: simulation/templates/gaia/flora_tree_palm_doum.xml:4
+msgid "Doum Palm"
+msgstr "末日棕榈"
+
+#: simulation/templates/gaia/flora_tree_palm_palmyra.xml:4
+msgid "Palmyra Palm"
+msgstr "巴尔米拉棕榈"
+
 #: simulation/templates/gaia/flora_tree_palm_tropic.xml:4
 msgid "Palm"
 msgstr "棕榈"
@@ -608,6 +673,11 @@ msgstr "热带棕榈"
 #: simulation/templates/gaia/flora_tree_pine_w.xml:4
 msgid "Pine Tree"
 msgstr "松树"
+
+#: simulation/templates/gaia/flora_tree_pine_black.xml:4
+#: simulation/templates/gaia/flora_tree_pine_black_dead.xml:4
+msgid "Black Pine"
+msgstr "黑松"
 
 #: simulation/templates/gaia/flora_tree_poplar.xml:4
 msgid "Poplar Tree"
@@ -1009,8 +1079,8 @@ msgstr "间谍"
 
 #: simulation/templates/special/formations/anti_cavalry.xml:6
 #: simulation/templates/special/formations/testudo.xml:6
-msgid "16 melee infantry units required"
-msgstr "需要16个近战步兵单位"
+msgid "At least 16 melee infantry units required."
+msgstr "需要16个近战步兵单位。"
 
 #: simulation/templates/special/formations/anti_cavalry.xml:7
 msgid "Anti Cavalry"
@@ -1021,8 +1091,8 @@ msgid "Battle Line"
 msgstr "战线"
 
 #: simulation/templates/special/formations/box.xml:6
-msgid "4 units required"
-msgstr "需要4个单位"
+msgid "At least 4 units required."
+msgstr "至少需要4个单位。"
 
 #: simulation/templates/special/formations/box.xml:7
 msgid "Box"
@@ -1037,8 +1107,8 @@ msgid "Column Open"
 msgstr "散开纵队"
 
 #: simulation/templates/special/formations/flank.xml:6
-msgid "8 units required"
-msgstr "需要8个单位"
+msgid "At least 8 units required."
+msgstr "至少需要8个单位。"
 
 #: simulation/templates/special/formations/flank.xml:7
 msgid "Flank"
@@ -1057,8 +1127,8 @@ msgid "None"
 msgstr "无"
 
 #: simulation/templates/special/formations/phalanx.xml:6
-msgid "10 hoplite infantry required"
-msgstr "需要10个重步兵"
+msgid "At least 10 hoplite infantry required."
+msgstr "至少需要10个重步兵。"
 
 #: simulation/templates/special/formations/phalanx.xml:7
 msgid "Phalanx"
@@ -1069,16 +1139,16 @@ msgid "Scatter"
 msgstr "分散"
 
 #: simulation/templates/special/formations/skirmish.xml:5
-msgid "Only ranged units allowed"
-msgstr "只允许远程单位"
+msgid "Only ranged units allowed."
+msgstr "只允许远程单位。"
 
 #: simulation/templates/special/formations/skirmish.xml:6
 msgid "Skirmish"
 msgstr "散兵"
 
 #: simulation/templates/special/formations/syntagma.xml:6
-msgid "16 pike infantry units required"
-msgstr "需要16个长枪兵"
+msgid "At least 16 pike infantry units required."
+msgstr "需要至少16个长枪兵。"
 
 #: simulation/templates/special/formations/syntagma.xml:8
 msgid "Syntagma"
@@ -1089,8 +1159,8 @@ msgid "Testudo"
 msgstr "陆龟"
 
 #: simulation/templates/special/formations/wedge.xml:6
-msgid "6 cavalry units required"
-msgstr "需要6个骑兵。"
+msgid "At least 6 cavalry units required."
+msgstr "至少需要6个骑兵。"
 
 #: simulation/templates/special/formations/wedge.xml:7
 msgid "Wedge"

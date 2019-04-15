@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0 A.D.\n"
-"POT-Creation-Date: 2019-02-08 09:44+0100\n"
-"PO-Revision-Date: 2019-02-08 14:21+0000\n"
+"POT-Creation-Date: 2019-04-01 10:10+0200\n"
+"PO-Revision-Date: 2019-04-01 15:23+0000\n"
 "Last-Translator: Adrián Chaves Fernández <adriyetichaves@gmail.com>\n"
 "Language-Team: Danish (http://www.transifex.com/wildfire-games/0ad/language/da/)\n"
 "MIME-Version: 1.0\n"
@@ -22,6 +22,15 @@ msgstr ""
 #: simulation/templates/template_gaia.xml:7
 msgid "Gaia"
 msgstr "Moder Natur"
+
+#: simulation/templates/template_gaia_fish.xml:8
+#: simulation/templates/gaia/fauna_fish.xml:4
+msgid "Fish"
+msgstr "Fisk"
+
+#: simulation/templates/template_gaia_fish.xml:10
+msgid "Gather food from this bountiful oceanic resource."
+msgstr ""
 
 #: simulation/templates/template_gaia_flora_bush.xml:8
 msgid "Bush"
@@ -110,6 +119,14 @@ msgstr "Bygning"
 #: simulation/templates/template_unit.xml:42
 msgid "Unit"
 msgstr "Enhed"
+
+#: simulation/templates/template_wallset.xml:11
+msgid "City Wall"
+msgstr "Bymur"
+
+#: simulation/templates/template_wallset.xml:12
+msgid "Wall off your town for a stout defense."
+msgstr "Byg mure om din by for at give den et stærkt forsvar."
 
 #: simulation/templates/campaigns/army_mace_hero_alexander.xml:27
 msgid "Army of Alexander the Great."
@@ -273,13 +290,6 @@ msgstr ""
 #: simulation/templates/gaia/fauna_elephant_north_african.xml:12
 msgid "Loxodonta cyclotis"
 msgstr ""
-
-#: simulation/templates/gaia/fauna_fish.xml:4
-#: simulation/templates/gaia/fauna_fish.xml:5
-#: simulation/templates/gaia/fauna_fish_tilapia.xml:5
-#: simulation/templates/gaia/fauna_fish_tuna.xml:5
-msgid "Fish"
-msgstr "Fisk"
 
 #: simulation/templates/gaia/fauna_fish_tilapia.xml:4
 msgid "Tilapia"
@@ -531,13 +541,48 @@ msgstr "Aleppofyr"
 msgid "Apple Tree"
 msgstr "Æbletræ"
 
+#: simulation/templates/gaia/flora_tree_bamboo.xml:4
+#: simulation/templates/gaia/flora_tree_bamboo_single.xml:4
+msgid "Bamboo"
+msgstr ""
+
+#: simulation/templates/gaia/flora_tree_banyan.xml:8
+msgid "Banyan"
+msgstr ""
+
 #: simulation/templates/gaia/flora_tree_baobab.xml:8
+#: simulation/templates/gaia/flora_tree_baobab_3_mature.xml:8
 msgid "Baobab"
 msgstr "Baobab"
+
+#: simulation/templates/gaia/flora_tree_baobab_1_sapling.xml:4
+msgid "Baobab Sapling"
+msgstr ""
+
+#: simulation/templates/gaia/flora_tree_baobab_2_young.xml:4
+msgid "Young Baobab"
+msgstr ""
+
+#: simulation/templates/gaia/flora_tree_baobab_4_dead.xml:8
+msgid "Dead Baobab"
+msgstr ""
 
 #: simulation/templates/gaia/flora_tree_carob.xml:4
 msgid "Carob Tree"
 msgstr "Johannesbrød"
+
+#: simulation/templates/gaia/flora_tree_cedar_atlas_1_sapling.xml:4
+msgid "Atlas Cedar Sapling"
+msgstr ""
+
+#: simulation/templates/gaia/flora_tree_cedar_atlas_2_young.xml:4
+#: simulation/templates/gaia/flora_tree_cedar_atlas_3_mature.xml:4
+msgid "Atlas Cedar"
+msgstr ""
+
+#: simulation/templates/gaia/flora_tree_cedar_atlas_4_dead.xml:4
+msgid "Dead Atlas Cedar"
+msgstr ""
 
 #: simulation/templates/gaia/flora_tree_cretan_date_palm_patch.xml:8
 #: simulation/templates/gaia/flora_tree_cretan_date_palm_short.xml:4
@@ -552,6 +597,10 @@ msgstr "Cypres"
 #: simulation/templates/gaia/flora_tree_date_palm.xml:4
 msgid "Date Palm"
 msgstr "Daddelpalme"
+
+#: simulation/templates/gaia/flora_tree_date_palm_fruit.xml:4
+msgid "Fruiting Date Palm"
+msgstr ""
 
 #: simulation/templates/gaia/flora_tree_dead.xml:4
 msgid "Dead Tree"
@@ -569,6 +618,14 @@ msgstr "Figen"
 #: simulation/templates/gaia/flora_tree_fig.xml:8
 msgid "Gather figs for Food."
 msgstr "Saml figner for at få Mad."
+
+#: simulation/templates/gaia/flora_tree_fir_sapling.xml:4
+msgid "Fir Sapling"
+msgstr ""
+
+#: simulation/templates/gaia/flora_tree_mangrove.xml:4
+msgid "Mangrove"
+msgstr ""
 
 #: simulation/templates/gaia/flora_tree_medit_fan_palm.xml:4
 msgid "Mediterranean Fan Palm"
@@ -590,6 +647,14 @@ msgstr "Stort Egetræ"
 msgid "Olive Tree"
 msgstr "Oliventræ"
 
+#: simulation/templates/gaia/flora_tree_palm_doum.xml:4
+msgid "Doum Palm"
+msgstr ""
+
+#: simulation/templates/gaia/flora_tree_palm_palmyra.xml:4
+msgid "Palmyra Palm"
+msgstr ""
+
 #: simulation/templates/gaia/flora_tree_palm_tropic.xml:4
 msgid "Palm"
 msgstr "Palme"
@@ -602,6 +667,11 @@ msgstr "Tropisk Palme"
 #: simulation/templates/gaia/flora_tree_pine_w.xml:4
 msgid "Pine Tree"
 msgstr "Fyrretræ"
+
+#: simulation/templates/gaia/flora_tree_pine_black.xml:4
+#: simulation/templates/gaia/flora_tree_pine_black_dead.xml:4
+msgid "Black Pine"
+msgstr ""
 
 #: simulation/templates/gaia/flora_tree_poplar.xml:4
 msgid "Poplar Tree"
@@ -1003,7 +1073,7 @@ msgstr ""
 
 #: simulation/templates/special/formations/anti_cavalry.xml:6
 #: simulation/templates/special/formations/testudo.xml:6
-msgid "16 melee infantry units required"
+msgid "At least 16 melee infantry units required."
 msgstr ""
 
 #: simulation/templates/special/formations/anti_cavalry.xml:7
@@ -1015,8 +1085,8 @@ msgid "Battle Line"
 msgstr "Kamplinje"
 
 #: simulation/templates/special/formations/box.xml:6
-msgid "4 units required"
-msgstr "Kræver 4 enheder"
+msgid "At least 4 units required."
+msgstr ""
 
 #: simulation/templates/special/formations/box.xml:7
 msgid "Box"
@@ -1031,8 +1101,8 @@ msgid "Column Open"
 msgstr "Kolonne Åben"
 
 #: simulation/templates/special/formations/flank.xml:6
-msgid "8 units required"
-msgstr "Kræver 8 enheder"
+msgid "At least 8 units required."
+msgstr ""
 
 #: simulation/templates/special/formations/flank.xml:7
 msgid "Flank"
@@ -1051,7 +1121,7 @@ msgid "None"
 msgstr "Ingen"
 
 #: simulation/templates/special/formations/phalanx.xml:6
-msgid "10 hoplite infantry required"
+msgid "At least 10 hoplite infantry required."
 msgstr ""
 
 #: simulation/templates/special/formations/phalanx.xml:7
@@ -1063,15 +1133,15 @@ msgid "Scatter"
 msgstr "Spredning"
 
 #: simulation/templates/special/formations/skirmish.xml:5
-msgid "Only ranged units allowed"
-msgstr "Kun skytte enheder tilladt"
+msgid "Only ranged units allowed."
+msgstr ""
 
 #: simulation/templates/special/formations/skirmish.xml:6
 msgid "Skirmish"
 msgstr "Blænkning"
 
 #: simulation/templates/special/formations/syntagma.xml:6
-msgid "16 pike infantry units required"
+msgid "At least 16 pike infantry units required."
 msgstr ""
 
 #: simulation/templates/special/formations/syntagma.xml:8
@@ -1083,7 +1153,7 @@ msgid "Testudo"
 msgstr "Skjoldborg"
 
 #: simulation/templates/special/formations/wedge.xml:6
-msgid "6 cavalry units required"
+msgid "At least 6 cavalry units required."
 msgstr ""
 
 #: simulation/templates/special/formations/wedge.xml:7

@@ -1,5 +1,5 @@
 # Translation template for 0 A.D. — Empires Ascendant.
-# Copyright (C) 2018 Wildfire Games
+# Copyright (C) 2019 Wildfire Games
 # This file is distributed under the same license as the 0 A.D. — Empires Ascendant project.
 # 
 # Translators:
@@ -45,8 +45,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0 A.D.\n"
-"POT-Creation-Date: 2018-12-31 09:44+0100\n"
-"PO-Revision-Date: 2019-03-07 07:32+0000\n"
+"POT-Creation-Date: 2019-03-29 09:45+0100\n"
+"PO-Revision-Date: 2019-04-06 06:41+0000\n"
 "Last-Translator: liulitchi <xingzuo88@qq.com>\n"
 "Language-Team: Chinese (http://www.transifex.com/wildfire-games/0ad/language/zh/)\n"
 "MIME-Version: 1.0\n"
@@ -357,7 +357,7 @@ msgstr "触发英雄是否可以驻守。"
 
 #: gui/gamesetup/gamesetup.js:852
 msgid "Nomad"
-msgstr "诺曼底"
+msgstr "游牧"
 
 #: gui/gamesetup/gamesetup.js:853
 msgid ""
@@ -394,8 +394,8 @@ msgid "Disable Treasures"
 msgstr "取消宝藏系统"
 
 #: gui/gamesetup/gamesetup.js:900
-msgid "Disable all treasures on the map."
-msgstr "停用在地图上的所有宝藏。"
+msgid "Do not add treasures to the map."
+msgstr "不要在地图上添加宝藏。"
 
 #: gui/gamesetup/gamesetup.js:911
 msgid "Disable Spies"
@@ -441,8 +441,8 @@ msgstr "切换本比赛是否算入排位。"
 
 #: gui/gamesetup/gamesetup.js:1000
 #, javascript-format
-msgid "Press %(hotkey)s to autocomplete playernames or settings."
-msgstr "按 %(hotkey)s 自动输入玩家名字或设置"
+msgid "Press %(hotkey)s to autocomplete player names or settings."
+msgstr "按下%(hotkey)s后，自动完成昵称或设置。"
 
 #: gui/gamesetup/gamesetup.js:1008
 msgid "Return to the lobby."
@@ -493,82 +493,82 @@ msgstr "使用%(hotkey)s向下移动设置选项卡。"
 msgid "Use %(hotkey)s to move a settings tab up."
 msgstr "使用%(hotkey)s向上移动设置选项卡。"
 
-#: gui/gamesetup/gamesetup.js:1748
+#: gui/gamesetup/gamesetup.js:1751
 msgctxt "map selection"
 msgid "Random"
 msgstr "随机"
 
-#: gui/gamesetup/gamesetup.js:1750
+#: gui/gamesetup/gamesetup.js:1753
 msgid "Pick any of the given maps at random."
 msgstr "随机选择地图"
 
-#: gui/gamesetup/gamesetup.js:1782
+#: gui/gamesetup/gamesetup.js:1785
 msgctxt "biome"
 msgid "Random"
 msgstr "随机"
 
-#: gui/gamesetup/gamesetup.js:1783
+#: gui/gamesetup/gamesetup.js:1786
 msgid "Pick a biome at random."
 msgstr "随机选择生物群落。"
 
-#: gui/gamesetup/gamesetup.js:2121
+#: gui/gamesetup/gamesetup.js:2124
 #, javascript-format
 msgctxt "Title for specific setting"
 msgid "%(setting)s:"
 msgstr "%(setting)s："
 
-#: gui/gamesetup/gamesetup.js:2126
+#: gui/gamesetup/gamesetup.js:2129
 msgctxt "settings value"
 msgid "Unknown"
 msgstr "未知"
 
-#: gui/gamesetup/gamesetup.js:2156
+#: gui/gamesetup/gamesetup.js:2159
 msgid "Yes"
 msgstr "是"
 
-#: gui/gamesetup/gamesetup.js:2156
+#: gui/gamesetup/gamesetup.js:2159
 msgid "No"
 msgstr "否"
 
-#: gui/gamesetup/gamesetup.js:2163
+#: gui/gamesetup/gamesetup.js:2166
 #, javascript-format
 msgid "%(setting)s:"
 msgstr "%(setting)s："
 
-#: gui/gamesetup/gamesetup.js:2251
+#: gui/gamesetup/gamesetup.js:2254
 #, javascript-format
 msgid "%(playerName)s %(romanNumber)s"
 msgstr "%(playerName)s %(romanNumber)s"
 
-#: gui/gamesetup/gamesetup.js:2456
+#: gui/gamesetup/gamesetup.js:2459
 #, javascript-format
 msgid "AI: %(ai)s"
 msgstr "电脑: %(ai)s"
 
-#: gui/gamesetup/gamesetup.js:2464
+#: gui/gamesetup/gamesetup.js:2467
 msgid "Unassigned"
 msgstr "未指定"
 
-#: gui/gamesetup/gamesetup.js:2540
+#: gui/gamesetup/gamesetup.js:2543
 #, javascript-format
 msgid "== %(message)s"
 msgstr "== %(message)s"
 
-#: gui/gamesetup/gamesetup.js:2547
+#: gui/gamesetup/gamesetup.js:2550
 msgid "Unknown Player"
 msgstr "未知玩家"
 
-#: gui/gamesetup/gamesetup.js:2586
+#: gui/gamesetup/gamesetup.js:2589
 #, javascript-format
 msgid "%(time)s %(message)s"
 msgstr "%(time)s %(message)s"
 
-#: gui/gamesetup/gamesetup.js:2587
+#: gui/gamesetup/gamesetup.js:2590
 #, javascript-format
 msgid "\\[%(time)s]"
 msgstr "\\[%(time)s]"
 
-#: gui/gamesetup/gamesetup.js:2588
+#: gui/gamesetup/gamesetup.js:2591
 msgid "HH:mm"
 msgstr "HH:mm"
 
@@ -630,12 +630,19 @@ msgstr "无法加入游戏 : %(message)s。"
 msgid "%(playername)s's game"
 msgstr "%(playername)s 的游戏"
 
-#: gui/loading/loading.js:48
+#. Translation: A bullet point used before every item of list of tips
+#. displayed on loading screen
+#: gui/loading/loading.js:33
+#, javascript-format
+msgid "• %(tiptext)s"
+msgstr ""
+
+#: gui/loading/loading.js:51
 #, javascript-format
 msgid "Loading “%(map)s”"
 msgstr "正在载入 「%(map)s」"
 
-#: gui/loading/loading.js:52
+#: gui/loading/loading.js:55
 #, javascript-format
 msgid "Generating “%(map)s”"
 msgstr "正在产生「%(map)s」"
@@ -1263,7 +1270,7 @@ msgstr ""
 msgid ""
 "\"I am a citizen of the world.\" - Diogenes of Sinope (Diogenes Laertius, "
 "\"The Lives and Opinions of Eminent Philosophers\", \"Diogenes\", sec. 63)"
-msgstr ""
+msgstr "我是世界公民。——锡诺普的第欧根尼"
 
 #: gui/text/quotes.txt:72
 msgid ""
@@ -1301,7 +1308,7 @@ msgstr "懦夫转身离开,但勇敢之人的抉择是危险的。——欧里�
 msgid ""
 "\"Brave men are made bolder by ordeals, but cowards achieve nothing.\" - "
 "Euripides (\"Iphigenia in Tauris\")"
-msgstr ""
+msgstr "勇敢的人在苦难中变得更勇敢，但懦夫却一无所获。——欧里庇得斯 "
 
 #: gui/text/quotes.txt:78
 msgid ""
@@ -1318,7 +1325,7 @@ msgid ""
 "\"Return with your shield, or on it.\" - Farewell of Spartan women to their "
 "warriors, implying that cowards would throw away their shield in battle to "
 "flee (Plutarch, \"Moralia\", XVIII. \"Sayings of Spartan Women\", 241f)"
-msgstr ""
+msgstr "“带着你的盾牌回来，或者戴上它。”——斯巴达妇女向他们的战士告别，暗示懦夫会在逃跑的战斗中丢掉他们的盾牌（普鲁塔克，“莫拉里亚”，十八。《斯巴达妇女的格言》，241F）"
 
 #: gui/text/quotes.txt:81
 msgid ""
@@ -1358,7 +1365,7 @@ msgid ""
 "exhausted by many and severe wounds, that he was already unable to support "
 "himself.\" - Gaius Julius Caesar about the Battle of the Sabis (\"De Bello "
 "Gallico\", II. 25)"
-msgstr ""
+msgstr "“第四队的百夫长都被杀了，旗手也被杀了，旗子也丢了，其他队的百夫长几乎全都受伤或被杀了，其中军团的首席百夫长，普布留斯·塞卡斯修斯·巴库鲁斯，就是一个非常勇敢的人，受了许多重伤，精疲力竭，已经无法支撑自己了。”—盖尤斯·朱利叶斯·凯撒关于萨比斯战役的描述（“德贝洛·加利科”，第二章。25）"
 
 #: gui/text/quotes.txt:86
 msgid ""
@@ -1443,7 +1450,7 @@ msgstr "人不能两次踏入同一条河流，因为无论是这条河还是这
 msgid ""
 "\"It is better to be envied than to be pitied.\" - Herodotus (\"The "
 "Histories\", III. 52)"
-msgstr ""
+msgstr "被人羡慕要好过被人怜悯。——希罗多德（《历史》第三卷52节）"
 
 #: gui/text/quotes.txt:98
 msgid ""
@@ -1461,7 +1468,7 @@ msgstr "这是人们最剧烈的痛苦,有很多知识,但没有权力。——�
 msgid ""
 "\"Although he \\[Xerces] had plenty of troops he had few men.\" - Herodotus "
 "(\"The Histories\", VII. 210)"
-msgstr ""
+msgstr "他们（薛西斯）的人数虽多，可是其中顶事儿的人却很少。——希罗多德（《历史》第七卷210节）"
 
 #: gui/text/quotes.txt:101
 msgid ""
@@ -1487,7 +1494,7 @@ msgid ""
 "Thebes] was the same: If he sent an army against the Persians, he would "
 "destroy a great empire.\" - Herodotus, later mentioning that the empire "
 "Kroisos destroyed was his own (\"The Histories\", I. 53)"
-msgstr ""
+msgstr "两地（德尔斐和底比斯）的神谕是相同的：如果克洛伊索斯进攻波斯，他就可以灭掉一个大帝国。——希罗多德。不久，他自己的帝国被波斯摧毁了。（《历史》第一卷53节）"
 
 #: gui/text/quotes.txt:104
 msgid ""
@@ -2026,20 +2033,20 @@ msgid ""
 "\"The growth of the power of Athens, and the alarm which this caused in "
 "Sparta, made war inevitable.\" - Thucydides (\"History of the Peloponnesian "
 "War\", I. 23.6)"
-msgstr ""
+msgstr "雅典势力的日益增长，由此而引起斯巴达的恐惧，使战争成为不可避免的了。——修昔底德（《伯罗奔尼撒战争史》第一卷，23段第6句）"
 
 #: gui/text/quotes.txt:177
 msgid ""
 "\"War is a matter not so much of arms as of money.\" - Thucydides (\"History"
 " of the Peloponnesian War\", I. 83.2)"
-msgstr ""
+msgstr "在战争中，需要金钱甚于需要军备。——修昔底德（《伯罗奔尼撒战争史》第一卷83段第2句）"
 
 #: gui/text/quotes.txt:178
 msgid ""
 "\"It is a general rule of human nature that people despise those who treat "
 "them well, and look up to those who make no concessions.\" - Thucydides "
 "(\"History of the Peloponnesian War\", III. 39.5)"
-msgstr ""
+msgstr "人们鄙视那些善待他们的人，并且尊重那些不作出任何让步的人，这是人性的一般规律。——修昔底德（《伯罗奔尼撒战争史》第三卷39段第5句）"
 
 #: gui/text/quotes.txt:179
 msgid ""
@@ -2050,7 +2057,7 @@ msgid ""
 " they ever had perished, nothing was saved and few of so many ever returned "
 "home. Thus ended the Sicilian expedition.\" - Thucydides (\"History of the "
 "Peloponnesian War\", VII. 87.6-7)"
-msgstr ""
+msgstr "这是这场战争中希腊人最大的一次军事行动，照我看来，也是希腊历史上最大的军事行动—对于胜利者来说，是最大的光荣，对于失败者来说，是最大的灾难。雅典人被彻底打败，全军覆灭，他们遭受了巨大的痛苦；他们被毁灭了，正像谚语所说，一切都灰飞烟灭了，他们的舰队，他们的陆军，全部都被毁灭了，庞大的远征军中只有极少数人重返故乡。这就是在西西里发生的事件。——修昔底德（《伯罗奔尼撒战争史》第七卷87段）"
 
 #: gui/text/quotes.txt:180
 msgid ""
@@ -2058,7 +2065,7 @@ msgid ""
 "strong do what they can and the weak suffer what they must.\" - Thucydides, "
 "describing Athenians addressing the defeated Melians who are unwilling to "
 "surrender (\"History of the Peloponnesian War\", V. 89.1)"
-msgstr ""
+msgstr "同时我们也知道，强者可以做他们能够做的一切，而弱者只能忍受他们必须忍受的一切。——修昔底德，描述了雅典人对不愿投降的梅利亚人的讲话。（《伯罗奔尼撒战争史》第五卷89段）"
 
 #: gui/text/quotes.txt:181
 msgid ""
@@ -2067,7 +2074,7 @@ msgid ""
 "darts to the closest man at hand.\" - Thucydides, describing the Spartan "
 "disaster at the Battle of Sphacteria (\"History of the Peloponnesian War\", "
 "IV. 34.2)"
-msgstr ""
+msgstr "拉栖代梦人对这种作战方式不习惯，随着攻击而来的高呼声使他们惊慌失措。新近被烧毁的树木炭灰飞扬起来，遮天蔽日，许多战士投射的石块、弩箭在尘雾中飞舞，敌人看不清眼前的东西了。——修昔底德，描述了Sphacteria战役中的斯巴达惨败（《伯罗奔尼撒战争史》第四卷34.2）"
 
 #: gui/text/quotes.txt:182
 msgid ""

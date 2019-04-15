@@ -19,7 +19,6 @@
   </Footprint>
   <GarrisonHolder disable=""/>
   <Identity>
-    <Classes datatype="tokens">-ConquestCritical</Classes>
     <GenericName>Rotary Mill</GenericName>
     <Icon>structures/rotarymill.png</Icon>
   </Identity>
@@ -37,7 +36,6 @@
     <SoundGroups>
       <select>interface/select/building/sel_ffactri.xml</select>
       <constructed>interface/complete/building/complete_ffactri.xml</constructed>
-      <death>attack/destruction/building_collapse_large.xml</death>
     </SoundGroups>
   </Sound>
   <StatusBars>

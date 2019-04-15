@@ -11,6 +11,7 @@
 # Cajetan Bouchard <cajetan.bouchard@gmail.com>, 2014-2015
 # curieux de l'être <skimandco@gmail.com>, 2017
 # David D, 2018
+# Estébastien Robespi <estebastien@mailbox.org>, 2019
 # François Magimel, 2018
 # François Poirotte <clicky@erebot.net>, 2016
 # Irriep Nala Novram <allannkorh@yahoo.fr>, 2017
@@ -30,8 +31,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0 A.D.\n"
-"POT-Creation-Date: 2019-01-18 09:44+0100\n"
-"PO-Revision-Date: 2019-01-18 15:14+0000\n"
+"POT-Creation-Date: 2019-03-22 09:45+0100\n"
+"PO-Revision-Date: 2019-03-22 14:47+0000\n"
 "Last-Translator: Adrián Chaves Fernández <adriyetichaves@gmail.com>\n"
 "Language-Team: French (http://www.transifex.com/wildfire-games/0ad/language/fr/)\n"
 "MIME-Version: 1.0\n"
@@ -754,8 +755,9 @@ msgstr "Régicide"
 msgid ""
 "Be the first to build or capture a Wonder and keep it for a certain time to "
 "win the game. The timer will be reset when the Wonder is destroyed or "
-"captured or in allied victory when the owners alliances change."
-msgstr "Soyez le premier à construire ou capturer une merveille et gardez-la pendant un certain temps pour gagner la partie. Le chrono sera réinitialisé lorsque la Merveille est détruite,  capturée ou lors d'une victoire alliée lorsque les alliances des propriétaires changent."
+"captured. If the allied victory mode is enabled, the timer will also be "
+"reset when the alliances of the owner change."
+msgstr ""
 
 #: simulation/data/settings/victory_conditions/wonder.jsonData.Title
 msgid "Wonder"
@@ -901,4 +903,4 @@ msgid ""
 "Petra is the default 0 A.D. AI bot. Please report issues to Wildfire Games (see the link in the main menu).\n"
 "\n"
 "The AI's resource gathering rate and trade gain depend on the difficulty level (Sandbox −58%, Very Easy −44%, Easy −25%, Medium ±0%, Hard +25%, Very Hard +56%). The easiest levels also have a slower research, training, and building rate. In addition, the Sandbox level does not expand nor attack."
-msgstr ""
+msgstr "Petra est l'IA par défaut pour les joueurs contrôlés par l'ordinateur. Merci de signaler tout problème à Wildfire Games (lien dans le menu principal).\n\nLe taux de collecte de l'IA et son revenu commercial dépendent de la difficulté choisie (bac à sable -58 %, très facile -44 %, facile -25 %, intermédiaire ±0%, difficile +25%, très difficile +56 %). Les niveaux les plus faciles ont des vitesses de recherche, d'entraînement, et de construction plus lentes. De plus, il n'y a pas d'élargissement ni d'attaque en niveau bac à sable."

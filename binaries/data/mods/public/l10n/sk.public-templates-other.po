@@ -13,12 +13,12 @@
 # SuroX <peter.surovcik@gmail.com>, 2016
 # Peto (wt-ts) <peter.tuharsky@gmail.com>, 2016
 # Roman 'Kaktuxista' Benji <romanbeno273@gmail.com>, 2014
-# Angen <slavomir.slovenkai@gmail.com>, 2018
+# Angen <slavomir.slovenkai@gmail.com>, 2018-2019
 msgid ""
 msgstr ""
 "Project-Id-Version: 0 A.D.\n"
-"POT-Creation-Date: 2019-02-08 09:44+0100\n"
-"PO-Revision-Date: 2019-02-08 14:21+0000\n"
+"POT-Creation-Date: 2019-04-01 10:10+0200\n"
+"PO-Revision-Date: 2019-04-01 15:23+0000\n"
 "Last-Translator: Adrián Chaves Fernández <adriyetichaves@gmail.com>\n"
 "Language-Team: Slovak (http://www.transifex.com/wildfire-games/0ad/language/sk/)\n"
 "MIME-Version: 1.0\n"
@@ -30,6 +30,15 @@ msgstr ""
 #: simulation/templates/template_gaia.xml:7
 msgid "Gaia"
 msgstr "Gaia"
+
+#: simulation/templates/template_gaia_fish.xml:8
+#: simulation/templates/gaia/fauna_fish.xml:4
+msgid "Fish"
+msgstr "ryby"
+
+#: simulation/templates/template_gaia_fish.xml:10
+msgid "Gather food from this bountiful oceanic resource."
+msgstr "Zbieraj jedlo z tohto štedrého morského zdroja. "
 
 #: simulation/templates/template_gaia_flora_bush.xml:8
 msgid "Bush"
@@ -119,6 +128,14 @@ msgstr "Stavba"
 msgid "Unit"
 msgstr "Jednotka"
 
+#: simulation/templates/template_wallset.xml:11
+msgid "City Wall"
+msgstr "Mestské hradby"
+
+#: simulation/templates/template_wallset.xml:12
+msgid "Wall off your town for a stout defense."
+msgstr "Opevni svoje mesto hradbami pre pevnejšiu obranu."
+
 #: simulation/templates/campaigns/army_mace_hero_alexander.xml:27
 msgid "Army of Alexander the Great."
 msgstr "Armáda Alexandra Veľkého."
@@ -190,15 +207,15 @@ msgstr "Arktický vlk"
 #: simulation/templates/gaia/fauna_arctic_wolf.xml:5
 #: simulation/templates/gaia/fauna_wolf.xml:5
 msgid "Canis lupus"
-msgstr ""
+msgstr "Canis lupus"
 
 #: simulation/templates/gaia/fauna_bear.xml:17
 msgid "Brown Bear"
-msgstr ""
+msgstr "Medveď hnedý"
 
 #: simulation/templates/gaia/fauna_bear.xml:18
 msgid "Ursus arctos"
-msgstr ""
+msgstr "Ursus arctos"
 
 #: simulation/templates/gaia/fauna_boar.xml:17
 msgid "Wild Boar"
@@ -210,11 +227,11 @@ msgstr "Diviak lesný "
 
 #: simulation/templates/gaia/fauna_camel.xml:8
 msgid "Dromedary"
-msgstr ""
+msgstr "Ťava"
 
 #: simulation/templates/gaia/fauna_camel.xml:9
 msgid "Camelus dromedarius"
-msgstr ""
+msgstr "Camelus dromedarius"
 
 #: simulation/templates/gaia/fauna_chicken.xml:11
 msgid "Chicken"
@@ -222,7 +239,7 @@ msgstr "Sliepka"
 
 #: simulation/templates/gaia/fauna_chicken.xml:12
 msgid "Gallus gallus domesticus"
-msgstr ""
+msgstr "Gallus gallus domesticus"
 
 #: simulation/templates/gaia/fauna_crocodile.xml:17
 msgid "Nile Crocodile"
@@ -234,19 +251,19 @@ msgstr "Crocodylus niloticus"
 
 #: simulation/templates/gaia/fauna_deer.xml:8
 msgid "Red Deer"
-msgstr ""
+msgstr "Jeleň lesný"
 
 #: simulation/templates/gaia/fauna_deer.xml:9
 msgid "Cervus elaphus"
-msgstr ""
+msgstr "Cervus elaphus"
 
 #: simulation/templates/gaia/fauna_donkey.xml:4
 msgid "Donkey"
-msgstr ""
+msgstr "Somár"
 
 #: simulation/templates/gaia/fauna_donkey.xml:5
 msgid "Equus africanus asinus"
-msgstr ""
+msgstr "Equus africanus asinus"
 
 #: simulation/templates/gaia/fauna_elephant_african_bush.xml:11
 msgid "African Bush Elephant"
@@ -255,11 +272,11 @@ msgstr "Slon africký"
 #: simulation/templates/gaia/fauna_elephant_african_bush.xml:12
 #: simulation/templates/gaia/fauna_elephant_african_infant.xml:5
 msgid "Loxodonta africana"
-msgstr ""
+msgstr "Loxodonta africana"
 
 #: simulation/templates/gaia/fauna_elephant_african_infant.xml:4
 msgid "African Bush Elephant Calf"
-msgstr ""
+msgstr "Slon africký"
 
 #: simulation/templates/gaia/fauna_elephant_asian.xml:11
 msgid "Asian Elephant"
@@ -268,7 +285,7 @@ msgstr "Slon ázijský"
 #: simulation/templates/gaia/fauna_elephant_asian.xml:12
 #: simulation/templates/gaia/fauna_elephant_asian_infant.xml:5
 msgid "Elephas maximus"
-msgstr ""
+msgstr "Elephas maximus"
 
 #: simulation/templates/gaia/fauna_elephant_asian_infant.xml:4
 msgid "Asian Elephant Calf"
@@ -276,26 +293,19 @@ msgstr "Teľa Slona Ázijského "
 
 #: simulation/templates/gaia/fauna_elephant_north_african.xml:11
 msgid "African Forest Elephant"
-msgstr ""
+msgstr "Slon pralesný"
 
 #: simulation/templates/gaia/fauna_elephant_north_african.xml:12
 msgid "Loxodonta cyclotis"
-msgstr ""
-
-#: simulation/templates/gaia/fauna_fish.xml:4
-#: simulation/templates/gaia/fauna_fish.xml:5
-#: simulation/templates/gaia/fauna_fish_tilapia.xml:5
-#: simulation/templates/gaia/fauna_fish_tuna.xml:5
-msgid "Fish"
-msgstr "ryby"
+msgstr "Loxodonta cyclotis"
 
 #: simulation/templates/gaia/fauna_fish_tilapia.xml:4
 msgid "Tilapia"
-msgstr ""
+msgstr "Tilapia"
 
 #: simulation/templates/gaia/fauna_fish_tuna.xml:4
 msgid "Tuna"
-msgstr ""
+msgstr "Tuniak"
 
 #: simulation/templates/gaia/fauna_fox_arctic.xml:4
 msgid "Arctic Fox"
@@ -303,7 +313,7 @@ msgstr "Arktická líška"
 
 #: simulation/templates/gaia/fauna_fox_arctic.xml:5
 msgid "Vulpes lagopus"
-msgstr ""
+msgstr "Vulpes lagopus"
 
 #: simulation/templates/gaia/fauna_fox_red.xml:4
 msgid "Red Fox"
@@ -311,24 +321,24 @@ msgstr "Líška Červená "
 
 #: simulation/templates/gaia/fauna_fox_red.xml:5
 msgid "Vulpes vulpes"
-msgstr ""
+msgstr "Vulpes vulpes"
 
 #: simulation/templates/gaia/fauna_gazelle.xml:8
 msgid "Thomson's Gazelle"
-msgstr ""
+msgstr "Gazela Thomsonova"
 
 #: simulation/templates/gaia/fauna_gazelle.xml:9
 msgid "Eudorcas thomsonii"
-msgstr ""
+msgstr "Eudorcas thomsonii"
 
 #: simulation/templates/gaia/fauna_giraffe.xml:11
 msgid "Giraffe"
-msgstr ""
+msgstr "Žirafa"
 
 #: simulation/templates/gaia/fauna_giraffe.xml:12
 #: simulation/templates/gaia/fauna_giraffe_infant.xml:9
 msgid "Giraffa camelopardalis"
-msgstr ""
+msgstr "Giraffa camelopardalis"
 
 #: simulation/templates/gaia/fauna_giraffe_infant.xml:8
 msgid "Juvenile Giraffe"
@@ -489,11 +499,11 @@ msgstr "Vlkodav "
 
 #: simulation/templates/gaia/fauna_zebra.xml:8
 msgid "Common Zebra"
-msgstr ""
+msgstr "Zebra stepná"
 
 #: simulation/templates/gaia/fauna_zebra.xml:9
 msgid "Equus quagga"
-msgstr ""
+msgstr "Equus quagga"
 
 #: simulation/templates/gaia/fauna_zebu.xml:8
 msgid "Zebu"
@@ -539,13 +549,48 @@ msgstr "Borovica halepská"
 msgid "Apple Tree"
 msgstr "Jabloň"
 
+#: simulation/templates/gaia/flora_tree_bamboo.xml:4
+#: simulation/templates/gaia/flora_tree_bamboo_single.xml:4
+msgid "Bamboo"
+msgstr ""
+
+#: simulation/templates/gaia/flora_tree_banyan.xml:8
+msgid "Banyan"
+msgstr ""
+
 #: simulation/templates/gaia/flora_tree_baobab.xml:8
+#: simulation/templates/gaia/flora_tree_baobab_3_mature.xml:8
 msgid "Baobab"
 msgstr "Baobab"
+
+#: simulation/templates/gaia/flora_tree_baobab_1_sapling.xml:4
+msgid "Baobab Sapling"
+msgstr ""
+
+#: simulation/templates/gaia/flora_tree_baobab_2_young.xml:4
+msgid "Young Baobab"
+msgstr ""
+
+#: simulation/templates/gaia/flora_tree_baobab_4_dead.xml:8
+msgid "Dead Baobab"
+msgstr ""
 
 #: simulation/templates/gaia/flora_tree_carob.xml:4
 msgid "Carob Tree"
 msgstr "Karob"
+
+#: simulation/templates/gaia/flora_tree_cedar_atlas_1_sapling.xml:4
+msgid "Atlas Cedar Sapling"
+msgstr ""
+
+#: simulation/templates/gaia/flora_tree_cedar_atlas_2_young.xml:4
+#: simulation/templates/gaia/flora_tree_cedar_atlas_3_mature.xml:4
+msgid "Atlas Cedar"
+msgstr ""
+
+#: simulation/templates/gaia/flora_tree_cedar_atlas_4_dead.xml:4
+msgid "Dead Atlas Cedar"
+msgstr ""
 
 #: simulation/templates/gaia/flora_tree_cretan_date_palm_patch.xml:8
 #: simulation/templates/gaia/flora_tree_cretan_date_palm_short.xml:4
@@ -560,6 +605,10 @@ msgstr "Cyprus"
 #: simulation/templates/gaia/flora_tree_date_palm.xml:4
 msgid "Date Palm"
 msgstr "Datľovník pravý"
+
+#: simulation/templates/gaia/flora_tree_date_palm_fruit.xml:4
+msgid "Fruiting Date Palm"
+msgstr ""
 
 #: simulation/templates/gaia/flora_tree_dead.xml:4
 msgid "Dead Tree"
@@ -577,6 +626,14 @@ msgstr "Figovník"
 #: simulation/templates/gaia/flora_tree_fig.xml:8
 msgid "Gather figs for Food."
 msgstr "Pozbierajte figy pre jedlo."
+
+#: simulation/templates/gaia/flora_tree_fir_sapling.xml:4
+msgid "Fir Sapling"
+msgstr ""
+
+#: simulation/templates/gaia/flora_tree_mangrove.xml:4
+msgid "Mangrove"
+msgstr ""
 
 #: simulation/templates/gaia/flora_tree_medit_fan_palm.xml:4
 msgid "Mediterranean Fan Palm"
@@ -598,6 +655,14 @@ msgstr "Veľký dub"
 msgid "Olive Tree"
 msgstr "Olivovník"
 
+#: simulation/templates/gaia/flora_tree_palm_doum.xml:4
+msgid "Doum Palm"
+msgstr ""
+
+#: simulation/templates/gaia/flora_tree_palm_palmyra.xml:4
+msgid "Palmyra Palm"
+msgstr ""
+
 #: simulation/templates/gaia/flora_tree_palm_tropic.xml:4
 msgid "Palm"
 msgstr "Palma"
@@ -610,6 +675,11 @@ msgstr "Tropická palma"
 #: simulation/templates/gaia/flora_tree_pine_w.xml:4
 msgid "Pine Tree"
 msgstr "Borovica"
+
+#: simulation/templates/gaia/flora_tree_pine_black.xml:4
+#: simulation/templates/gaia/flora_tree_pine_black_dead.xml:4
+msgid "Black Pine"
+msgstr ""
 
 #: simulation/templates/gaia/flora_tree_poplar.xml:4
 msgid "Poplar Tree"
@@ -1011,7 +1081,7 @@ msgstr "Špech"
 
 #: simulation/templates/special/formations/anti_cavalry.xml:6
 #: simulation/templates/special/formations/testudo.xml:6
-msgid "16 melee infantry units required"
+msgid "At least 16 melee infantry units required."
 msgstr ""
 
 #: simulation/templates/special/formations/anti_cavalry.xml:7
@@ -1023,8 +1093,8 @@ msgid "Battle Line"
 msgstr "Bojová línia"
 
 #: simulation/templates/special/formations/box.xml:6
-msgid "4 units required"
-msgstr "Požadujú sa 4 jednotky"
+msgid "At least 4 units required."
+msgstr ""
 
 #: simulation/templates/special/formations/box.xml:7
 msgid "Box"
@@ -1039,8 +1109,8 @@ msgid "Column Open"
 msgstr "Otvorený stĺpec"
 
 #: simulation/templates/special/formations/flank.xml:6
-msgid "8 units required"
-msgstr "Požaduje sa 8 jednotiek"
+msgid "At least 8 units required."
+msgstr ""
 
 #: simulation/templates/special/formations/flank.xml:7
 msgid "Flank"
@@ -1059,8 +1129,8 @@ msgid "None"
 msgstr "Žiadne"
 
 #: simulation/templates/special/formations/phalanx.xml:6
-msgid "10 hoplite infantry required"
-msgstr "Potreba 10 jednotiek harcovníka"
+msgid "At least 10 hoplite infantry required."
+msgstr ""
 
 #: simulation/templates/special/formations/phalanx.xml:7
 msgid "Phalanx"
@@ -1071,16 +1141,16 @@ msgid "Scatter"
 msgstr "Rozptyl"
 
 #: simulation/templates/special/formations/skirmish.xml:5
-msgid "Only ranged units allowed"
-msgstr "Povolené sú len jednotky na diaľku"
+msgid "Only ranged units allowed."
+msgstr ""
 
 #: simulation/templates/special/formations/skirmish.xml:6
 msgid "Skirmish"
 msgstr "Šarvátka"
 
 #: simulation/templates/special/formations/syntagma.xml:6
-msgid "16 pike infantry units required"
-msgstr "Požaduje sa 16 pešiakov s kopijami"
+msgid "At least 16 pike infantry units required."
+msgstr ""
 
 #: simulation/templates/special/formations/syntagma.xml:8
 msgid "Syntagma"
@@ -1091,8 +1161,8 @@ msgid "Testudo"
 msgstr "Korytnačka"
 
 #: simulation/templates/special/formations/wedge.xml:6
-msgid "6 cavalry units required"
-msgstr "Potreba 6 jednotiek jazdy "
+msgid "At least 6 cavalry units required."
+msgstr ""
 
 #: simulation/templates/special/formations/wedge.xml:7
 msgid "Wedge"

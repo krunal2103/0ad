@@ -11,8 +11,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0 A.D.\n"
-"POT-Creation-Date: 2019-02-08 09:44+0100\n"
-"PO-Revision-Date: 2019-02-08 14:21+0000\n"
+"POT-Creation-Date: 2019-04-01 10:10+0200\n"
+"PO-Revision-Date: 2019-04-01 15:23+0000\n"
 "Last-Translator: Adrián Chaves Fernández <adriyetichaves@gmail.com>\n"
 "Language-Team: Hebrew (http://www.transifex.com/wildfire-games/0ad/language/he/)\n"
 "MIME-Version: 1.0\n"
@@ -24,6 +24,15 @@ msgstr ""
 #: simulation/templates/template_gaia.xml:7
 msgid "Gaia"
 msgstr "טבע "
+
+#: simulation/templates/template_gaia_fish.xml:8
+#: simulation/templates/gaia/fauna_fish.xml:4
+msgid "Fish"
+msgstr "דג"
+
+#: simulation/templates/template_gaia_fish.xml:10
+msgid "Gather food from this bountiful oceanic resource."
+msgstr "איסוף מזון ממקור ימי עשיר זה."
 
 #: simulation/templates/template_gaia_flora_bush.xml:8
 msgid "Bush"
@@ -112,6 +121,14 @@ msgstr "מבנה"
 #: simulation/templates/template_unit.xml:42
 msgid "Unit"
 msgstr "יחידה "
+
+#: simulation/templates/template_wallset.xml:11
+msgid "City Wall"
+msgstr "חומות העיר"
+
+#: simulation/templates/template_wallset.xml:12
+msgid "Wall off your town for a stout defense."
+msgstr "קיר את העיר שלך להגנה איתנה."
 
 #: simulation/templates/campaigns/army_mace_hero_alexander.xml:27
 msgid "Army of Alexander the Great."
@@ -275,13 +292,6 @@ msgstr ""
 #: simulation/templates/gaia/fauna_elephant_north_african.xml:12
 msgid "Loxodonta cyclotis"
 msgstr ""
-
-#: simulation/templates/gaia/fauna_fish.xml:4
-#: simulation/templates/gaia/fauna_fish.xml:5
-#: simulation/templates/gaia/fauna_fish_tilapia.xml:5
-#: simulation/templates/gaia/fauna_fish_tuna.xml:5
-msgid "Fish"
-msgstr "דג"
 
 #: simulation/templates/gaia/fauna_fish_tilapia.xml:4
 msgid "Tilapia"
@@ -533,13 +543,48 @@ msgstr "חאלב עץ האורן"
 msgid "Apple Tree"
 msgstr "עץ תפוחים"
 
+#: simulation/templates/gaia/flora_tree_bamboo.xml:4
+#: simulation/templates/gaia/flora_tree_bamboo_single.xml:4
+msgid "Bamboo"
+msgstr ""
+
+#: simulation/templates/gaia/flora_tree_banyan.xml:8
+msgid "Banyan"
+msgstr ""
+
 #: simulation/templates/gaia/flora_tree_baobab.xml:8
+#: simulation/templates/gaia/flora_tree_baobab_3_mature.xml:8
 msgid "Baobab"
 msgstr "באובב "
+
+#: simulation/templates/gaia/flora_tree_baobab_1_sapling.xml:4
+msgid "Baobab Sapling"
+msgstr ""
+
+#: simulation/templates/gaia/flora_tree_baobab_2_young.xml:4
+msgid "Young Baobab"
+msgstr ""
+
+#: simulation/templates/gaia/flora_tree_baobab_4_dead.xml:8
+msgid "Dead Baobab"
+msgstr ""
 
 #: simulation/templates/gaia/flora_tree_carob.xml:4
 msgid "Carob Tree"
 msgstr "עץ חרוב"
+
+#: simulation/templates/gaia/flora_tree_cedar_atlas_1_sapling.xml:4
+msgid "Atlas Cedar Sapling"
+msgstr ""
+
+#: simulation/templates/gaia/flora_tree_cedar_atlas_2_young.xml:4
+#: simulation/templates/gaia/flora_tree_cedar_atlas_3_mature.xml:4
+msgid "Atlas Cedar"
+msgstr ""
+
+#: simulation/templates/gaia/flora_tree_cedar_atlas_4_dead.xml:4
+msgid "Dead Atlas Cedar"
+msgstr ""
 
 #: simulation/templates/gaia/flora_tree_cretan_date_palm_patch.xml:8
 #: simulation/templates/gaia/flora_tree_cretan_date_palm_short.xml:4
@@ -554,6 +599,10 @@ msgstr "עץ ברוש"
 #: simulation/templates/gaia/flora_tree_date_palm.xml:4
 msgid "Date Palm"
 msgstr "דקל"
+
+#: simulation/templates/gaia/flora_tree_date_palm_fruit.xml:4
+msgid "Fruiting Date Palm"
+msgstr ""
 
 #: simulation/templates/gaia/flora_tree_dead.xml:4
 msgid "Dead Tree"
@@ -571,6 +620,14 @@ msgstr "תאנה "
 #: simulation/templates/gaia/flora_tree_fig.xml:8
 msgid "Gather figs for Food."
 msgstr "אסוף את התאנים למזון."
+
+#: simulation/templates/gaia/flora_tree_fir_sapling.xml:4
+msgid "Fir Sapling"
+msgstr ""
+
+#: simulation/templates/gaia/flora_tree_mangrove.xml:4
+msgid "Mangrove"
+msgstr ""
 
 #: simulation/templates/gaia/flora_tree_medit_fan_palm.xml:4
 msgid "Mediterranean Fan Palm"
@@ -592,6 +649,14 @@ msgstr "עץ אלון גדול"
 msgid "Olive Tree"
 msgstr "עץ זית "
 
+#: simulation/templates/gaia/flora_tree_palm_doum.xml:4
+msgid "Doum Palm"
+msgstr ""
+
+#: simulation/templates/gaia/flora_tree_palm_palmyra.xml:4
+msgid "Palmyra Palm"
+msgstr ""
+
 #: simulation/templates/gaia/flora_tree_palm_tropic.xml:4
 msgid "Palm"
 msgstr "שזיף"
@@ -604,6 +669,11 @@ msgstr "פאלם הטרופי"
 #: simulation/templates/gaia/flora_tree_pine_w.xml:4
 msgid "Pine Tree"
 msgstr "עץ אורן "
+
+#: simulation/templates/gaia/flora_tree_pine_black.xml:4
+#: simulation/templates/gaia/flora_tree_pine_black_dead.xml:4
+msgid "Black Pine"
+msgstr ""
 
 #: simulation/templates/gaia/flora_tree_poplar.xml:4
 msgid "Poplar Tree"
@@ -1005,7 +1075,7 @@ msgstr "מרגל"
 
 #: simulation/templates/special/formations/anti_cavalry.xml:6
 #: simulation/templates/special/formations/testudo.xml:6
-msgid "16 melee infantry units required"
+msgid "At least 16 melee infantry units required."
 msgstr ""
 
 #: simulation/templates/special/formations/anti_cavalry.xml:7
@@ -1017,8 +1087,8 @@ msgid "Battle Line"
 msgstr "קו החזית"
 
 #: simulation/templates/special/formations/box.xml:6
-msgid "4 units required"
-msgstr "דרושות 4 יחידות"
+msgid "At least 4 units required."
+msgstr ""
 
 #: simulation/templates/special/formations/box.xml:7
 msgid "Box"
@@ -1033,8 +1103,8 @@ msgid "Column Open"
 msgstr "עמודה פתוחה"
 
 #: simulation/templates/special/formations/flank.xml:6
-msgid "8 units required"
-msgstr "דרושות 8 יחידות"
+msgid "At least 8 units required."
+msgstr ""
 
 #: simulation/templates/special/formations/flank.xml:7
 msgid "Flank"
@@ -1053,8 +1123,8 @@ msgid "None"
 msgstr "אף לא אחד"
 
 #: simulation/templates/special/formations/phalanx.xml:6
-msgid "10 hoplite infantry required"
-msgstr "10 חי\"ר ההופליטיות נדרשים"
+msgid "At least 10 hoplite infantry required."
+msgstr ""
 
 #: simulation/templates/special/formations/phalanx.xml:7
 msgid "Phalanx"
@@ -1065,16 +1135,16 @@ msgid "Scatter"
 msgstr "פיזור"
 
 #: simulation/templates/special/formations/skirmish.xml:5
-msgid "Only ranged units allowed"
-msgstr "מורשות יחידות טווח רחוק בלבד"
+msgid "Only ranged units allowed."
+msgstr ""
 
 #: simulation/templates/special/formations/skirmish.xml:6
 msgid "Skirmish"
 msgstr "התנגשות"
 
 #: simulation/templates/special/formations/syntagma.xml:6
-msgid "16 pike infantry units required"
-msgstr "16 יחידות חי\"ר כידון נדרשים"
+msgid "At least 16 pike infantry units required."
+msgstr ""
 
 #: simulation/templates/special/formations/syntagma.xml:8
 msgid "Syntagma"
@@ -1085,8 +1155,8 @@ msgid "Testudo"
 msgstr "טסטודו"
 
 #: simulation/templates/special/formations/wedge.xml:6
-msgid "6 cavalry units required"
-msgstr "נדרשים 6 יחידות פרשים "
+msgid "At least 6 cavalry units required."
+msgstr ""
 
 #: simulation/templates/special/formations/wedge.xml:7
 msgid "Wedge"

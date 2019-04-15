@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0 A.D.\n"
-"POT-Creation-Date: 2019-02-08 09:44+0100\n"
-"PO-Revision-Date: 2019-02-27 00:40+0000\n"
+"POT-Creation-Date: 2019-04-01 10:10+0200\n"
+"PO-Revision-Date: 2019-04-09 00:40+0000\n"
 "Last-Translator: David Sowa <isithere2@yahoo.com>\n"
 "Language-Team: Asturian (http://www.transifex.com/wildfire-games/0ad/language/ast/)\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,16 @@ msgstr ""
 
 #: simulation/templates/template_gaia.xml:7
 msgid "Gaia"
-msgstr "Xea"
+msgstr "Gaia"
+
+#: simulation/templates/template_gaia_fish.xml:8
+#: simulation/templates/gaia/fauna_fish.xml:4
+msgid "Fish"
+msgstr "Pexe"
+
+#: simulation/templates/template_gaia_fish.xml:10
+msgid "Gather food from this bountiful oceanic resource."
+msgstr "Recueyi alimentos d'esti recursu marín bayurosu."
 
 #: simulation/templates/template_gaia_flora_bush.xml:8
 msgid "Bush"
@@ -110,6 +119,14 @@ msgstr "Construcción"
 msgid "Unit"
 msgstr "Unidá"
 
+#: simulation/templates/template_wallset.xml:11
+msgid "City Wall"
+msgstr "Muralla"
+
+#: simulation/templates/template_wallset.xml:12
+msgid "Wall off your town for a stout defense."
+msgstr "Cerca la ciudá pa fortalecer la defensa."
+
 #: simulation/templates/campaigns/army_mace_hero_alexander.xml:27
 msgid "Army of Alexander the Great."
 msgstr "L'exércitu d'Alexandro'l Grande."
@@ -148,7 +165,7 @@ msgstr "Mercáu"
 #: simulation/templates/campaigns/campaign_city_minor_test.xml:26
 #: simulation/templates/campaigns/campaign_city_test.xml:26
 msgid "Settlement"
-msgstr "Asentamientu"
+msgstr "Asitiamientu"
 
 #: simulation/templates/campaigns/campaign_city_minor_test.xml:27
 msgid "Minor Greek Polis"
@@ -185,7 +202,7 @@ msgstr "Canis lupus"
 
 #: simulation/templates/gaia/fauna_bear.xml:17
 msgid "Brown Bear"
-msgstr "Osu pardu"
+msgstr "Osu"
 
 #: simulation/templates/gaia/fauna_bear.xml:18
 msgid "Ursus arctos"
@@ -217,7 +234,7 @@ msgstr "Gallus gallus domesticus"
 
 #: simulation/templates/gaia/fauna_crocodile.xml:17
 msgid "Nile Crocodile"
-msgstr "Cocodrilu del Nilu"
+msgstr "Crocodilu del Nilu"
 
 #: simulation/templates/gaia/fauna_crocodile.xml:18
 msgid "Crocodylus niloticus"
@@ -267,18 +284,11 @@ msgstr "Cría d'elefante asiáticu"
 
 #: simulation/templates/gaia/fauna_elephant_north_african.xml:11
 msgid "African Forest Elephant"
-msgstr "Elefante africanu de viesca"
+msgstr "Elefante africanu forestal"
 
 #: simulation/templates/gaia/fauna_elephant_north_african.xml:12
 msgid "Loxodonta cyclotis"
 msgstr "Loxodonta cyclotis"
-
-#: simulation/templates/gaia/fauna_fish.xml:4
-#: simulation/templates/gaia/fauna_fish.xml:5
-#: simulation/templates/gaia/fauna_fish_tilapia.xml:5
-#: simulation/templates/gaia/fauna_fish_tuna.xml:5
-msgid "Fish"
-msgstr "Pexe"
 
 #: simulation/templates/gaia/fauna_fish_tilapia.xml:4
 msgid "Tilapia"
@@ -290,7 +300,7 @@ msgstr "Atún"
 
 #: simulation/templates/gaia/fauna_fox_arctic.xml:4
 msgid "Arctic Fox"
-msgstr "Raposu árticu"
+msgstr "Raposa ártica"
 
 #: simulation/templates/gaia/fauna_fox_arctic.xml:5
 msgid "Vulpes lagopus"
@@ -298,7 +308,7 @@ msgstr "Vulpes lagopus"
 
 #: simulation/templates/gaia/fauna_fox_red.xml:4
 msgid "Red Fox"
-msgstr "Raposu"
+msgstr "Raposa"
 
 #: simulation/templates/gaia/fauna_fox_red.xml:5
 msgid "Vulpes vulpes"
@@ -372,7 +382,7 @@ msgstr "Ovibos moschatus"
 
 #: simulation/templates/gaia/fauna_peacock.xml:7
 msgid "Peacock"
-msgstr "Pavu"
+msgstr "Pavón"
 
 #: simulation/templates/gaia/fauna_peacock.xml:8
 msgid "Pavo cristatus"
@@ -400,7 +410,7 @@ msgstr "Poni"
 
 #: simulation/templates/gaia/fauna_rabbit.xml:11
 msgid "Rabbit"
-msgstr "Coneyu"
+msgstr "Coneyu bravu"
 
 #: simulation/templates/gaia/fauna_rabbit.xml:12
 msgid "Oryctolagus cuniculus"
@@ -448,7 +458,7 @@ msgstr "Odobenus rosmarus"
 
 #: simulation/templates/gaia/fauna_whale_fin.xml:8
 msgid "Fin Whale"
-msgstr "Ballena d'aleta"
+msgstr "Ballena"
 
 #: simulation/templates/gaia/fauna_whale_fin.xml:9
 msgid "Balaenoptera physalus"
@@ -480,7 +490,7 @@ msgstr "Lloberu"
 
 #: simulation/templates/gaia/fauna_zebra.xml:8
 msgid "Common Zebra"
-msgstr "Cebra común"
+msgstr "Cebra de llanada"
 
 #: simulation/templates/gaia/fauna_zebra.xml:9
 msgid "Equus quagga"
@@ -496,7 +506,7 @@ msgstr "Bos taurus indicus"
 
 #: simulation/templates/gaia/flora_bush_badlands.xml:4
 msgid "Hardy Bush"
-msgstr "Arbustu viciosu"
+msgstr "Arbustu resistente"
 
 #: simulation/templates/gaia/flora_bush_berry.xml:4
 msgid "Berries"
@@ -504,7 +514,7 @@ msgstr "Bagues"
 
 #: simulation/templates/gaia/flora_bush_berry.xml:5
 msgid "Gather the fruit from these bushes to accumulate Food."
-msgstr "Cueyi la fruta d'estos arbustos p'axuntar Alimentos."
+msgstr "Recueyi la fruta d'estos arbustos p'atropar comida."
 
 #: simulation/templates/gaia/flora_bush_grapes.xml:4
 msgid "Grapes"
@@ -512,7 +522,7 @@ msgstr "Uves"
 
 #: simulation/templates/gaia/flora_bush_grapes.xml:5
 msgid "Gather grapes from these vines for Food."
-msgstr "Cueyi uves d'estes vides p'Alimentos."
+msgstr "Recueyi uves d'estes vides pa comida."
 
 #: simulation/templates/gaia/flora_bush_temperate.xml:4
 msgid "Deciduous Bush"
@@ -520,7 +530,7 @@ msgstr "Arbustu de fueya caduco"
 
 #: simulation/templates/gaia/flora_tree_acacia.xml:4
 msgid "Acacia Tree"
-msgstr "Acacia"
+msgstr "Alcacia"
 
 #: simulation/templates/gaia/flora_tree_aleppo_pine.xml:4
 msgid "Aleppo Pine Tree"
@@ -530,19 +540,54 @@ msgstr "Pinu d'Alepu"
 msgid "Apple Tree"
 msgstr "Pumar"
 
+#: simulation/templates/gaia/flora_tree_bamboo.xml:4
+#: simulation/templates/gaia/flora_tree_bamboo_single.xml:4
+msgid "Bamboo"
+msgstr "Bambú"
+
+#: simulation/templates/gaia/flora_tree_banyan.xml:8
+msgid "Banyan"
+msgstr "Figal de Bengala"
+
 #: simulation/templates/gaia/flora_tree_baobab.xml:8
+#: simulation/templates/gaia/flora_tree_baobab_3_mature.xml:8
 msgid "Baobab"
 msgstr "Baobab"
 
+#: simulation/templates/gaia/flora_tree_baobab_1_sapling.xml:4
+msgid "Baobab Sapling"
+msgstr "Baobab nuevu"
+
+#: simulation/templates/gaia/flora_tree_baobab_2_young.xml:4
+msgid "Young Baobab"
+msgstr "Baobabucu"
+
+#: simulation/templates/gaia/flora_tree_baobab_4_dead.xml:8
+msgid "Dead Baobab"
+msgstr "Baobab muertu"
+
 #: simulation/templates/gaia/flora_tree_carob.xml:4
 msgid "Carob Tree"
-msgstr "Algarroba"
+msgstr "Algarrobu"
+
+#: simulation/templates/gaia/flora_tree_cedar_atlas_1_sapling.xml:4
+msgid "Atlas Cedar Sapling"
+msgstr "Cedru l'Atles nuevu"
+
+#: simulation/templates/gaia/flora_tree_cedar_atlas_2_young.xml:4
+#: simulation/templates/gaia/flora_tree_cedar_atlas_3_mature.xml:4
+msgid "Atlas Cedar"
+msgstr "Cedru l'Atles"
+
+#: simulation/templates/gaia/flora_tree_cedar_atlas_4_dead.xml:4
+msgid "Dead Atlas Cedar"
+msgstr "Cedru l'Atles muertu"
 
 #: simulation/templates/gaia/flora_tree_cretan_date_palm_patch.xml:8
 #: simulation/templates/gaia/flora_tree_cretan_date_palm_short.xml:4
 #: simulation/templates/gaia/flora_tree_cretan_date_palm_tall.xml:4
 msgid "Cretan Date Palm"
-msgstr "Palmera de Creta"
+msgstr "Palmera datilera de Creta"
 
 #: simulation/templates/gaia/flora_tree_cypress.xml:4
 msgid "Cypress Tree"
@@ -551,6 +596,10 @@ msgstr "Ciprés"
 #: simulation/templates/gaia/flora_tree_date_palm.xml:4
 msgid "Date Palm"
 msgstr "Palmera datilera"
+
+#: simulation/templates/gaia/flora_tree_date_palm_fruit.xml:4
+msgid "Fruiting Date Palm"
+msgstr "Palmera datilera con fruta"
 
 #: simulation/templates/gaia/flora_tree_dead.xml:4
 msgid "Dead Tree"
@@ -567,7 +616,15 @@ msgstr "Figal"
 
 #: simulation/templates/gaia/flora_tree_fig.xml:8
 msgid "Gather figs for Food."
-msgstr "Cueyi figos p'Alimentos."
+msgstr "Recueyi figos pa comida."
+
+#: simulation/templates/gaia/flora_tree_fir_sapling.xml:4
+msgid "Fir Sapling"
+msgstr "Abetu común nuevu"
+
+#: simulation/templates/gaia/flora_tree_mangrove.xml:4
+msgid "Mangrove"
+msgstr "Mangle"
 
 #: simulation/templates/gaia/flora_tree_medit_fan_palm.xml:4
 msgid "Mediterranean Fan Palm"
@@ -589,6 +646,14 @@ msgstr "Carbayón"
 msgid "Olive Tree"
 msgstr "Olivar"
 
+#: simulation/templates/gaia/flora_tree_palm_doum.xml:4
+msgid "Doum Palm"
+msgstr "Palmera Dum"
+
+#: simulation/templates/gaia/flora_tree_palm_palmyra.xml:4
+msgid "Palmyra Palm"
+msgstr "Palmera de Palmira"
+
 #: simulation/templates/gaia/flora_tree_palm_tropic.xml:4
 msgid "Palm"
 msgstr "Palmera"
@@ -602,21 +667,26 @@ msgstr "Palmera tropical"
 msgid "Pine Tree"
 msgstr "Pinu"
 
+#: simulation/templates/gaia/flora_tree_pine_black.xml:4
+#: simulation/templates/gaia/flora_tree_pine_black_dead.xml:4
+msgid "Black Pine"
+msgstr "Pinu prietu"
+
 #: simulation/templates/gaia/flora_tree_poplar.xml:4
 msgid "Poplar Tree"
 msgstr "Chopu"
 
 #: simulation/templates/gaia/flora_tree_poplar_lombardy.xml:4
 msgid "Black Poplar Tree"
-msgstr "Chopu negru"
+msgstr "Chopu"
 
 #: simulation/templates/gaia/flora_tree_senegal_date_palm.xml:4
 msgid "Senegal Date Palm"
-msgstr "Palmera del Senegal"
+msgstr "Palmera senegalesa"
 
 #: simulation/templates/gaia/flora_tree_tamarix.xml:4
 msgid "Tamarix Tree"
-msgstr "Tamarguera"
+msgstr "Chamaricu"
 
 #: simulation/templates/gaia/flora_tree_toona.xml:4
 msgid "Toona Tree"
@@ -624,7 +694,7 @@ msgstr "Toona"
 
 #: simulation/templates/gaia/ruins/column_doric.xml:9
 msgid "Ancient Ruins"
-msgstr "Ruines antigües"
+msgstr "Murueques antigües"
 
 #: simulation/templates/gaia/ruins/pyramid_great.xml:8
 #: simulation/templates/gaia/ruins/pyramid_minor.xml:8
@@ -653,7 +723,7 @@ msgstr "Mehnir celta"
 
 #: simulation/templates/gaia/ruins/stone_statues_egyptian.xml:9
 msgid "Ptolemaic Egyptian Statues"
-msgstr "Estatues tolemaiques"
+msgstr "Estatues ptolemaiques"
 
 #: simulation/templates/gaia/ruins/stone_statues_kushite.xml:9
 msgid "Kushite Statue"
@@ -678,7 +748,7 @@ msgstr "Esti templu queda ensin finar y cayó en ruines."
 #: simulation/templates/gaia/treasure/food_persian_big.xml:8
 #: simulation/templates/gaia/treasure/food_persian_small.xml:8
 msgid "Food Treasure"
-msgstr "Ayalga d'alimentos"
+msgstr "Ayalga de comida"
 
 #: simulation/templates/gaia/treasure/food_barrels_buried.xml:9
 msgid "Half-buried Barrels"
@@ -686,11 +756,11 @@ msgstr "Barriles medio quemaos"
 
 #: simulation/templates/gaia/treasure/food_persian_big.xml:9
 msgid "Persian Food Stores"
-msgstr "Reserves perses d'alimentos"
+msgstr "Reserves de comida perses"
 
 #: simulation/templates/gaia/treasure/food_persian_small.xml:9
 msgid "Persian Food Treasure"
-msgstr "Ayalga persa d'alimentos"
+msgstr "Ayalga de comida persa"
 
 #: simulation/templates/gaia/treasure/golden_fleece.xml:9
 msgid "Golden Fleece"
@@ -849,7 +919,7 @@ msgstr "Propylaea"
 
 #: simulation/templates/other/hellenic_stoa.xml:24
 msgid "Stoa"
-msgstr "Stoá"
+msgstr "Stoa"
 
 #: simulation/templates/other/hellenic_stoa.xml:25
 msgid "Hellenic Stoa"
@@ -1002,8 +1072,8 @@ msgstr "Espía"
 
 #: simulation/templates/special/formations/anti_cavalry.xml:6
 #: simulation/templates/special/formations/testudo.xml:6
-msgid "16 melee infantry units required"
-msgstr "16 unidaes d'infantería cuerpu a cuerpu riquíes"
+msgid "At least 16 melee infantry units required."
+msgstr "Ríquense pelo menos 16 unidaes d'infantería cuerpu a cuerpu."
 
 #: simulation/templates/special/formations/anti_cavalry.xml:7
 msgid "Anti Cavalry"
@@ -1014,8 +1084,8 @@ msgid "Battle Line"
 msgstr "Llinia batalla"
 
 #: simulation/templates/special/formations/box.xml:6
-msgid "4 units required"
-msgstr "Necesítense 4 unidaes "
+msgid "At least 4 units required."
+msgstr "Ríquense pelo menos 4 unidaes."
 
 #: simulation/templates/special/formations/box.xml:7
 msgid "Box"
@@ -1030,8 +1100,8 @@ msgid "Column Open"
 msgstr "Columna abierta"
 
 #: simulation/templates/special/formations/flank.xml:6
-msgid "8 units required"
-msgstr "Necesítense 8 unidaes"
+msgid "At least 8 units required."
+msgstr "Ríquense pelo menos 8 unidaes."
 
 #: simulation/templates/special/formations/flank.xml:7
 msgid "Flank"
@@ -1050,8 +1120,8 @@ msgid "None"
 msgstr "Nengún"
 
 #: simulation/templates/special/formations/phalanx.xml:6
-msgid "10 hoplite infantry required"
-msgstr "Necesítense 10 hoplites"
+msgid "At least 10 hoplite infantry required."
+msgstr "Ríquense pelo menos 10 hoplites d'infantería."
 
 #: simulation/templates/special/formations/phalanx.xml:7
 msgid "Phalanx"
@@ -1062,16 +1132,16 @@ msgid "Scatter"
 msgstr "Espardedura"
 
 #: simulation/templates/special/formations/skirmish.xml:5
-msgid "Only ranged units allowed"
-msgstr "Namái se permiten unidaes a distancia"
+msgid "Only ranged units allowed."
+msgstr "Namái se permiten unidaes a distancia."
 
 #: simulation/templates/special/formations/skirmish.xml:6
 msgid "Skirmish"
 msgstr "Amarradiella"
 
 #: simulation/templates/special/formations/syntagma.xml:6
-msgid "16 pike infantry units required"
-msgstr "Necesítense 16 unidaes piqueres"
+msgid "At least 16 pike infantry units required."
+msgstr "Ríquense pelo menos 16 unidaes d'infantería piquero."
 
 #: simulation/templates/special/formations/syntagma.xml:8
 msgid "Syntagma"
@@ -1079,11 +1149,11 @@ msgstr "Sintagma"
 
 #: simulation/templates/special/formations/testudo.xml:8
 msgid "Testudo"
-msgstr "Tortúa"
+msgstr "Testudo"
 
 #: simulation/templates/special/formations/wedge.xml:6
-msgid "6 cavalry units required"
-msgstr "Necesítense 6 unidaes montaes"
+msgid "At least 6 cavalry units required."
+msgstr "Ríquense pelo menos 6 unidaes de caballería."
 
 #: simulation/templates/special/formations/wedge.xml:7
 msgid "Wedge"

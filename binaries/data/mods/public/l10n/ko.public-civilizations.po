@@ -6,11 +6,12 @@
 # Gr Nada <inactive+Granada45621@transifex.com>, 2016
 # Gr Nada <inactive+Granada45621@transifex.com>, 2016
 # Gu Hong Min <placidmoon1@gmail.com>, 2015
-# Hyeon june choi <copyhyeon@gmail.com>, 2018
+# moolow <copyhyeon@gmail.com>, 2018
 # jasonkimik <jasonkim@linux.com>, 2014
 # Gu Hong Min <placidmoon1@gmail.com>, 2015
 # ks k, 2019
 # ks k, 2019
+# moolow <copyhyeon@gmail.com>, 2018
 # Philipp Sauter <qt123@pm.me>, 2018
 # sang gyu nam <destro0419@naver.com>, 2019
 # Valtiel <shinhs6291@naver.com>, 2014
@@ -21,8 +22,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0 A.D.\n"
-"POT-Creation-Date: 2019-01-04 09:43+0100\n"
-"PO-Revision-Date: 2019-03-02 12:50+0000\n"
+"POT-Creation-Date: 2019-04-01 10:07+0200\n"
+"PO-Revision-Date: 2019-04-10 14:24+0000\n"
 "Last-Translator: ks k\n"
 "Language-Team: Korean (http://www.transifex.com/wildfire-games/0ad/language/ko/)\n"
 "MIME-Version: 1.0\n"
@@ -38,11 +39,11 @@ msgstr "아테네"
 
 #: simulation/data/civs/athen.jsonCivBonuses[0].Description
 msgid "Metal mining gathering rates increased by +10% for each passing age."
-msgstr "금속 채굴 속도가 시대 경과마다 10% 증가합니다."
+msgstr "금속 채굴 속도가 시대 경과할마다 10% 증가합니다."
 
 #: simulation/data/civs/athen.jsonCivBonuses[0].Name
 msgid "Silver Owls"
-msgstr "은 올빼미들(올빼미 은화)"
+msgstr "은색 올빼미-올빼미 은화"
 
 #: simulation/data/civs/athen.jsonCivBonuses[0].History
 msgid ""
@@ -56,7 +57,7 @@ msgstr "아티카 지방의 라우리온 광산에서 생산하는 은은 아테
 msgid ""
 "Constructing a Theatron increases the territory expanse of all buildings by "
 "+20%."
-msgstr "테아토론를 건설하면 모든 건물의 영지 반경이 20% 증가합니다."
+msgstr "테아트론(그리스 극장)을 건설하면 모든 건물의 영지 반경이 20% 증가합니다."
 
 #: simulation/data/civs/athen.jsonCivBonuses[1].Name
 #: simulation/data/civs/mace.jsonCivBonuses[2].Name
@@ -73,8 +74,8 @@ msgid ""
 msgstr "그리스는 많은 외국인들을 헬레니즘 문명화하는 것에 상당히 성공했습니다. 헬레니즘 시대동안, 그리스어는 고대 시대의 세계 공용어로서 스페인에서 인도에 이르기까지 폭넓게 사용되었습니다."
 
 #: simulation/data/civs/athen.jsonTeamBonuses[0].Description
-msgid "Ships construct 25% faster."
-msgstr "선박 제조가 25% 빨라집니다."
+msgid "Allied warships −25% construction time."
+msgstr "동맹의 군함 제조속도가 -25% 빨라집니다."
 
 #: simulation/data/civs/athen.jsonTeamBonuses[0].Name
 msgid "Delian League"
@@ -181,12 +182,12 @@ msgstr "아테네의 장성은 만만찮은 테미스토클레스의 후원하�
 msgid ""
 "The player gains the ability to order spear-armed troops into Phalanx "
 "formation, providing greater attack and armor."
-msgstr "플레이어는 창 무장 병력을 팔랑크스 진형으로 주문하여 공격력과 방어력을 향상시킨다."
+msgstr "선수는 창 무장 병력을 팔랑크스 진형으로 주문하여 공격력과 방어력을 향상시킨다."
 
 #: simulation/data/civs/athen.jsonFactions[0].Technologies[2].Name
 #: simulation/data/civs/spart.jsonCivBonuses[0].Name
 msgid "Othismos"
-msgstr "밀집 진형 전술"
+msgstr "오티스모스or 밀집 진형 전술"
 
 #: simulation/data/civs/athen.jsonFactions[0].Technologies[2].History
 msgid ""
@@ -252,7 +253,7 @@ msgstr "그리스의 극장에서는 아이스킬로스와 소포클레스의 �
 
 #: simulation/data/civs/athen.jsonStructures[1].Name
 msgid "Gymnasion"
-msgstr "김나지움(체육장)"
+msgstr "김나지움-체육장"
 
 #: simulation/data/civs/athen.jsonStructures[1].Special
 msgid ""
@@ -290,7 +291,7 @@ msgstr "서양 문명의 요람이며, 민주주의의 발상지로 아테네는
 #: simulation/data/civs/brit.jsonName
 #: simulation/data/civs/brit.jsonFactions[0].Name
 msgid "Britons"
-msgstr "브리튼"
+msgstr "브리톤"
 
 #: simulation/data/civs/brit.jsonCivBonuses[0].Description
 #: simulation/data/civs/gaul.jsonCivBonuses[0].Description
@@ -323,8 +324,8 @@ msgid "Celtic religion and druidry inspired their warlike mindset. "
 msgstr "켈트인의 종교와 드루이드 교는 그들의 호전적인 사상을 고취했다."
 
 #: simulation/data/civs/brit.jsonTeamBonuses[0].Description
-msgid "-20% resources cost for allies healers."
-msgstr "동맹군 힐러에게는 -20%의 자원이 소비됩니다."
+msgid "Allied healers −20% resource costs."
+msgstr "동맹의 치료사 훈련 자원 소모가 -20% 감소합니다."
 
 #: simulation/data/civs/brit.jsonTeamBonuses[0].Name
 msgid "Druids"
@@ -404,14 +405,14 @@ msgstr "탑에 주둔하는 유닛의 높이 보너스가 증가합니다."
 
 #: simulation/data/civs/brit.jsonFactions[0].Technologies[1].Name
 msgid "Turos Maros"
-msgstr "투로스 마로스??"
+msgstr "투로스 마로스"
 
 #: simulation/data/civs/brit.jsonFactions[0].Technologies[1].History
 msgid ""
 "'Great Tower'; Celtic legends abound with stories of massive tall towers "
 "built by the most powerful kings, and the remains of some very large towers "
 "have been found."
-msgstr "'거탑'; 켈트의 전설은 최강의 왕의 세운 견고한 높은 탑의 이야기가 많습니다. 그리고 일부 거탑의 유적이 발견되고 있습니다."
+msgstr "'위대한 탑'; 켈트의 전설은 최강의 왕의 세운 견고한 높은 탑의 이야기가 많습니다. 그리고 일부 거탑의 유적이 발견되고 있습니다."
 
 #: simulation/data/civs/brit.jsonFactions[0].Heroes[0].History
 msgid ""
@@ -465,7 +466,7 @@ msgid ""
 "their British allies, and Kunobelinos was held up by the post-Roman Britons "
 "as one of their great heroes; a conqueror and uniter of petty kingdoms, "
 "something the post-Roman Britons or Romano-British sorely needed."
-msgstr ""
+msgstr "쿠노벨리노스(아마도 쿠노벨린의 라틴양식으로 더 잘 알려져 있을 것이다)는 카투벨로우니의 강력한 지배자였다. 그는 로마인들에게 영국인의 왕으로 일컬어졌다. 그의 영역은 오늘날 콜체스터인 카물로두논 시(카물로두눔으로 알려져 있다)를 중심으로 펼쳐 있었다. 테우토부르크 숲(독일) 전투에서 로마의 패배로 쿠노벨리노스가 이웃 부족인 트리노반테스를 정복할 수 있게 되었는데 이들은 로마의 동맹임에도 로마의 원조를 받을 수 없었다. 쿠노벨리노스는 로마인들에게 무관심한 것 같았다. 그는 로마와 자유롭게 교역을 했지만 알려진 로마의 동맹을 예속하는 데는 거의 거리낌이 없었고, 심지어 막내아들인 아드미니우스를 양자로 보내 로마의 갈리아에서 교육을 받게 하기도 했다. 이것은 로마인들 사이의 아드미니우스의 우정을 설명하였다. 아드미니우스는 켄트에 거주하는 그의 아버지로부터 칸타키에대한 영주권을 부여받았다. 이 지역은 영국에서 로마의 영향과 무역의 주요 지역이었고, 쿠노벨리노스는 강력한 로마와 갈로-로마 정치인들과 무역상들과 그의 막내아들의 친분을 빈틈없이 관찰했다. 그의 다른 아들들은 로마인에 대한 사랑이 없었다. 쿠노벨리노스가 질병으로 죽고, 그의 아들 토그두메노스로 뒤를 잇자 수많은 친로마파들을 체포, 처형, 추방했다.여기에는 그의 친형인 아드미니우스가 포함되었고, 퇴위된 아트레바테스 왕 베리카는 그들의 땅을 되찾는데 있어서 보좌를 해달라고 로마 제국에서의 그들의 인맥에 호소했다. 토그두메오스는 로마인과의 전투에서 전사하였고, 이후 그의 동생 카라타코스가 뒤를 이었다. 처음으로 로마의 보복에 초대된 것이 그의 셋째 아들이라는 것은 아이러니한 일이다. 쿠노벨리노스는 영국 왕들 중 가장 위대한 왕들 중 하나였을 것이다. 그는 영국 남반부 대부분을 정복했다(그의 동전은 웨일즈가 될 국경까지 주조되어 있었었다). 그는 카투벨라우니라는 연합에서 겨우 4개의 소수 부족만을 통치하기 시작했고 결국 영국의 왕으로 인정받게 되었다. 캄브리아의 부족들은 로마인들과 그들의 영국 동맹들에 대항하여 그의 아들들을 도우러 왔으며, 쿠노벨리노스는 로마 이후의 영국인들에게 그들의 위대한 영웅들 중 한 명, 즉 로마 이후의 영국인이나 로마노-영국이 몹시 필요로 하는 것을 정복자 겸 통일자로 떠받들었다."
 
 #: simulation/data/civs/brit.jsonFactions[0].Heroes[2].History
 msgid ""
@@ -532,7 +533,7 @@ msgstr ""
 
 #: simulation/data/civs/cart.jsonName
 msgid "Carthaginians"
-msgstr "카르타고인"
+msgstr "카르타고"
 
 #: simulation/data/civs/cart.jsonCivBonuses[0].Description
 msgid ""
@@ -558,7 +559,7 @@ msgstr "코끼리 장착형 (전쟁 코끼리) 또는 말 장착형 유닛 (기�
 #: simulation/data/civs/cart.jsonCivBonuses[1].Name
 #: simulation/data/civs/ptol.jsonCivBonuses[2].Name
 msgid "Roundup"
-msgstr "몰아들이기?? 검거??"
+msgstr "몰아들이기or 검거"
 
 #: simulation/data/civs/cart.jsonCivBonuses[1].History
 msgid ""
@@ -568,8 +569,8 @@ msgid ""
 msgstr "이베리아 반도와 마찬가지로 북아프리카는 말의 나라로 알려져 매년 10 만 마리의 생산이 가능했습니다. 북아프리카는 둥근귀 코끼리의 산지이기도했습니다."
 
 #: simulation/data/civs/cart.jsonTeamBonuses[0].Description
-msgid "10% bonus of trade profit for allies' international routes."
-msgstr "동맹국과의 국제 교역 수입에 10% 보너스가 붙습니다."
+msgid "Allied markets +10% international trade bonus."
+msgstr "동맹 시장의 국제 교역 보너스가 +10% 증가합니다."
 
 #: simulation/data/civs/cart.jsonTeamBonuses[0].Name
 msgid "Trademasters"
@@ -593,11 +594,11 @@ msgstr "하밀카르 바르카"
 
 #: simulation/data/civs/cart.jsonAINames[2]
 msgid "Hasdrubal Barca"
-msgstr "하드루발 바르카??"
+msgstr "하드루발 바르카"
 
 #: simulation/data/civs/cart.jsonAINames[3]
 msgid "Hasdrubal Gisco"
-msgstr "하스두르발 기스코??"
+msgstr "하스두르발 기스코"
 
 #: simulation/data/civs/cart.jsonAINames[4]
 msgid "Hanno the Elder"
@@ -610,7 +611,7 @@ msgstr "마하르발"
 
 #: simulation/data/civs/cart.jsonAINames[6]
 msgid "Mago Barca"
-msgstr "마고 바르카??"
+msgstr "마고 바르카"
 
 #: simulation/data/civs/cart.jsonAINames[7]
 msgid "Hasdrubal the Fair"
@@ -642,11 +643,11 @@ msgstr "산티포스"
 
 #: simulation/data/civs/cart.jsonAINames[14]
 msgid "Himilco Phameas"
-msgstr "히미루코 · 화메아스??"
+msgstr "히밀코 프하메아스"
 
 #: simulation/data/civs/cart.jsonAINames[15]
 msgid "Hasdrubal the Boetharch"
-msgstr "하스 드루 발 바르카 · 보에타루쿠??"
+msgstr "하스드루발 보에타르츠"
 
 #: simulation/data/civs/cart.jsonFactions[0].Technologies[0].Description
 msgid "All Traders and Ships +25% vision range."
@@ -729,11 +730,11 @@ msgstr "켈트 용병을 고용합니다."
 
 #: simulation/data/civs/cart.jsonStructures[1].History
 msgid "The Celts supplied fierce warrior mercenaries for Carthaginian armies."
-msgstr "캘트는 용맹한 전사를 카르타고 군의 용병으로 배출했습니다.??"
+msgstr "켈트는 용맹한 전사를 카르타고 군의 용병으로 배출했습니다.??"
 
 #: simulation/data/civs/cart.jsonStructures[2].Name
 msgid "Italiote Embassy"
-msgstr "이타리오테스 대사관???"
+msgstr "이타리오테 대사관"
 
 #: simulation/data/civs/cart.jsonStructures[2].Special
 msgid "Hire Italian mercenaries."
@@ -772,11 +773,11 @@ msgstr "카르타고는 현대 튀니지에 있던 도시 국가에서 서쪽 �
 #: simulation/data/civs/gaul.jsonName
 #: simulation/data/civs/gaul.jsonFactions[0].Name
 msgid "Gauls"
-msgstr "갈리아족"
+msgstr "갈리아"
 
 #: simulation/data/civs/gaul.jsonTeamBonuses[0].Description
-msgid "-10% research time for technologies of allies."
-msgstr "동맹국 기술에 대한 10% 연구 시간이 감소합니다."
+msgid "Allied structures −20% technology research time."
+msgstr "동맹의 건축물 기술 연구 시간이 -20% 감소합니다."
 
 #: simulation/data/civs/gaul.jsonTeamBonuses[0].Name
 msgid "Druidic Wisdom"
@@ -928,7 +929,7 @@ msgstr "메로나스"
 
 #: simulation/data/civs/gaul.jsonStructures[0].History
 msgid "The Celts developed the first rotary flour mill."
-msgstr "캘트인은 최초로 회전식 밀링 기계를 만들었습니다."
+msgstr "켈트인은 최초로 회전식 밀링 기계를 만들었습니다."
 
 #: simulation/data/civs/gaul.jsonHistory
 msgid ""
@@ -941,7 +942,7 @@ msgstr "갈리아 인은 유럽 대륙의 켈트 부족했다. 사제의 신관 
 
 #: simulation/data/civs/iber.jsonName
 msgid "Iberians"
-msgstr "이베리아인"
+msgstr "이베리아"
 
 #: simulation/data/civs/iber.jsonCivBonuses[0].Description
 msgid "Iberians start with a powerful prefabricated circuit of stone walls."
@@ -975,10 +976,8 @@ msgid ""
 msgstr "북 아프리카의 누미디아와 마찬가지로 이베리아 반도는 매년 최대 10만 마리의 말을 생산할수있는 ′말의 나라′로 알려졌습니다."
 
 #: simulation/data/civs/iber.jsonTeamBonuses[0].Description
-msgid ""
-"Citizen-soldier infantry skirmishers and cavalry skirmishers -20% cost for "
-"allies."
-msgstr ""
+msgid "Allied citizen-soldier javelinists −20% resource costs."
+msgstr "동맹의 시민군 투창병 양성 자원 비용이 -20% 감소합니다. "
 
 #: simulation/data/civs/iber.jsonTeamBonuses[0].Name
 msgid "Saripeko"
@@ -1110,7 +1109,7 @@ msgstr ""
 
 #: simulation/data/civs/iber.jsonStructures[0].Name
 msgid "Gur Oroigarri"
-msgstr ""
+msgstr "구르 오로이가르리"
 
 #: simulation/data/civs/iber.jsonStructures[0].Special
 msgid ""
@@ -1138,11 +1137,11 @@ msgstr ""
 
 #: simulation/data/civs/kush.jsonName
 msgid "Kushites"
-msgstr "쿠시인"
+msgstr "쿠시"
 
 #: simulation/data/civs/kush.jsonCivBonuses[0].Name
 msgid "The Pyramids of Meroe"
-msgstr ""
+msgstr "메로에의 피라미드"
 
 #: simulation/data/civs/kush.jsonCivBonuses[0].Description
 msgid ""
@@ -1173,57 +1172,55 @@ msgstr ""
 
 #: simulation/data/civs/kush.jsonTeamBonuses[0].Name
 msgid "Elephant Suppliers"
-msgstr ""
+msgstr "코끼리 물품보급자"
 
 #: simulation/data/civs/kush.jsonTeamBonuses[0].Description
-msgid ""
-"Reduces the cost and train time for elephants with 20% for allies of Kushite"
-" players."
-msgstr ""
+msgid "Allied elephants −20% resource costs and training time."
+msgstr "동맹의 코끼리 양성 자원 비용과 훈련 시간이 -20% 감소합니다."
 
 #: simulation/data/civs/kush.jsonAINames[0]
 msgid "Kashta"
-msgstr ""
+msgstr "카쉬타"
 
 #: simulation/data/civs/kush.jsonAINames[1]
 msgid "Alara"
-msgstr ""
+msgstr "알아라"
 
 #: simulation/data/civs/kush.jsonAINames[2]
 msgid "Pebatjma"
-msgstr ""
+msgstr "페바트즈마"
 
 #: simulation/data/civs/kush.jsonAINames[3]
 msgid "Shabaka"
-msgstr ""
+msgstr "샤바카"
 
 #: simulation/data/civs/kush.jsonAINames[4]
 msgid "Shebitku"
-msgstr ""
+msgstr "쉐비트쿠"
 
 #: simulation/data/civs/kush.jsonAINames[5]
 msgid "Qalhata"
-msgstr ""
+msgstr "칼하타"
 
 #: simulation/data/civs/kush.jsonAINames[6]
 msgid "Takahatenamun"
-msgstr ""
+msgstr "타카하테나문"
 
 #: simulation/data/civs/kush.jsonAINames[7]
 msgid "Tantamani"
-msgstr ""
+msgstr "탄타마니"
 
 #: simulation/data/civs/kush.jsonAINames[8]
 msgid "Atlanersa"
-msgstr ""
+msgstr "아트라네르사"
 
 #: simulation/data/civs/kush.jsonAINames[9]
 msgid "Nasalsa"
-msgstr ""
+msgstr "나살사"
 
 #: simulation/data/civs/kush.jsonAINames[10]
 msgid "Malewiebamani"
-msgstr ""
+msgstr "마레위에바마니"
 
 #: simulation/data/civs/kush.jsonAINames[11]
 msgid "Harsiotef"
@@ -1231,11 +1228,11 @@ msgstr ""
 
 #: simulation/data/civs/kush.jsonAINames[12]
 msgid "Shanakdakhete"
-msgstr ""
+msgstr "샤나크다케테"
 
 #: simulation/data/civs/kush.jsonAINames[13]
 msgid "Amanishakheto"
-msgstr ""
+msgstr "아마니샤케토"
 
 #: simulation/data/civs/kush.jsonFactions[0].Technologies[0].Name
 msgid "Monumental Architecture"
@@ -1243,7 +1240,7 @@ msgstr ""
 
 #: simulation/data/civs/kush.jsonFactions[0].Technologies[0].Description
 msgid ""
-"+50% HP and -50% build time for Civic Centres, Temples, Pyramids and "
+"+50% HP and -50% build time for Civic Centers, Temples, Pyramids and "
 "Wonders."
 msgstr ""
 
@@ -1263,11 +1260,11 @@ msgstr ""
 
 #: simulation/data/civs/kush.jsonFactions[0].Heroes[0].Name
 msgid "Nastasen"
-msgstr ""
+msgstr "나스타센"
 
 #: simulation/data/civs/kush.jsonFactions[0].Heroes[1].Name
 msgid "Arakamani"
-msgstr ""
+msgstr "아라카마니"
 
 #: simulation/data/civs/kush.jsonFactions[0].Heroes[2].Name
 msgid "Amanirenas"
@@ -1388,8 +1385,8 @@ msgid ""
 msgstr ""
 
 #: simulation/data/civs/mace.jsonTeamBonuses[0].Description
-msgid "+20% sell prices at market."
-msgstr "시장 판매 가격이 20% 상승합니다."
+msgid "Allies +20% barter sell prices."
+msgstr "동맹의 판매가격이 +20% 증가합니다."
 
 #: simulation/data/civs/mace.jsonTeamBonuses[0].Name
 msgid "Standardized Currency"
@@ -1620,7 +1617,7 @@ msgstr ""
 
 #: simulation/data/civs/maur.jsonCivBonuses[0].Name
 msgid "Emperor of Emperors."
-msgstr ""
+msgstr "황제들중의 황제"
 
 #: simulation/data/civs/maur.jsonCivBonuses[0].History
 msgid ""
@@ -1638,7 +1635,7 @@ msgstr ""
 
 #: simulation/data/civs/maur.jsonCivBonuses[1].Name
 msgid "Kṣhatriya Warrior Caste."
-msgstr ""
+msgstr "크샤트리아 전사 계급."
 
 #: simulation/data/civs/maur.jsonCivBonuses[1].History
 msgid ""
@@ -1649,8 +1646,10 @@ msgid ""
 msgstr ""
 
 #: simulation/data/civs/maur.jsonTeamBonuses[0].Description
-msgid "Allied temples and temple technologies -50% cost and research time."
-msgstr ""
+msgid ""
+"Allied temples −50% resource costs and building time; temple technologies "
+"−50% resource costs and research time."
+msgstr "동맹의 사원 짓는 자원비용과 건설 시간을 -50% 감소시킵니다; 사원 기술의 자원 비용과 연구시간을 -50% 감소시킵니다."
 
 #: simulation/data/civs/maur.jsonTeamBonuses[0].Name
 msgid "Ashoka's Religious Support"
@@ -1673,7 +1672,7 @@ msgstr "아소카 대왕"
 
 #: simulation/data/civs/maur.jsonAINames[2]
 msgid "Ashokavardhan Maurya"
-msgstr ""
+msgstr "아소카바르드한 마우리아"
 
 #: simulation/data/civs/maur.jsonAINames[3]
 msgid "Acharya Bhadrabahu"
@@ -1701,7 +1700,7 @@ msgstr "데바바르만 마우리아"
 
 #: simulation/data/civs/maur.jsonAINames[9]
 msgid "Satadhanvan Maurya"
-msgstr ""
+msgstr "사타드한반 마우리아"
 
 #: simulation/data/civs/maur.jsonAINames[10]
 msgid "Brihadratha Maurya"
@@ -1729,7 +1728,7 @@ msgstr ""
 
 #: simulation/data/civs/maur.jsonFactions[0].Heroes[0].History
 msgid "Founder of the Mauryan Empire."
-msgstr ""
+msgstr "마우리아 제국의 건국자."
 
 #: simulation/data/civs/maur.jsonFactions[0].Heroes[1].History
 msgid "Last great emperor of the Mauryan dynasty."
@@ -1741,11 +1740,11 @@ msgstr ""
 
 #: simulation/data/civs/maur.jsonFactions[0].Heroes[2].Name
 msgid "Acharya Chāṇakya"
-msgstr ""
+msgstr "아차랴 차나캬"
 
 #: simulation/data/civs/maur.jsonFactions[0].Name
 msgid "Mauryan Indians"
-msgstr ""
+msgstr "마우리아 인도"
 
 #: simulation/data/civs/maur.jsonStructures[0].Name
 msgid "Elephant Stables"
@@ -1792,7 +1791,7 @@ msgstr ""
 
 #: simulation/data/civs/pers.jsonCivBonuses[0].Name
 msgid "Corral Camels and Horses"
-msgstr ""
+msgstr "산호 낙타 그리고 말"
 
 #: simulation/data/civs/pers.jsonCivBonuses[0].History
 msgid ""
@@ -1823,8 +1822,8 @@ msgid ""
 msgstr ""
 
 #: simulation/data/civs/pers.jsonTeamBonuses[0].Description
-msgid "Higher income (+15%) from land trade routes for ally's traders."
-msgstr "동맹국 간의 육로 교역 수입이 증가 (+15%)합니다."
+msgid "Allied land traders +15% trade gain."
+msgstr "동맹의 육로 상인의 교역 수입을 +15% 증가시킵니다."
 
 #: simulation/data/civs/pers.jsonTeamBonuses[0].Name
 msgid "Royal Road"
@@ -1840,7 +1839,7 @@ msgstr ""
 
 #: simulation/data/civs/pers.jsonAINames[0]
 msgid "Kurush II the Great"
-msgstr ""
+msgstr "키루스 2세 대왕"
 
 #: simulation/data/civs/pers.jsonAINames[1]
 #: simulation/data/civs/pers.jsonFactions[0].Heroes[1].Name
@@ -1849,11 +1848,11 @@ msgstr "다라야바흐쉬 1세"
 
 #: simulation/data/civs/pers.jsonAINames[2]
 msgid "Cambyses II"
-msgstr ""
+msgstr "캄비세스 2세"
 
 #: simulation/data/civs/pers.jsonAINames[3]
 msgid "Bardiya"
-msgstr ""
+msgstr "바르디야"
 
 #: simulation/data/civs/pers.jsonAINames[4]
 #: simulation/data/civs/pers.jsonFactions[0].Heroes[2].Name
@@ -1862,31 +1861,31 @@ msgstr "끄샤야르샤 1세"
 
 #: simulation/data/civs/pers.jsonAINames[5]
 msgid "Artaxshacha I"
-msgstr ""
+msgstr "아르타크세르크세스 1세"
 
 #: simulation/data/civs/pers.jsonAINames[6]
 msgid "Darayavahush II"
-msgstr ""
+msgstr "다라야바흐쉬 2세"
 
 #: simulation/data/civs/pers.jsonAINames[7]
 msgid "Darayavahush III"
-msgstr ""
+msgstr "다라야바흐쉬 3세"
 
 #: simulation/data/civs/pers.jsonAINames[8]
 msgid "Artaxshacha II"
-msgstr "아르탁스샤챠?? 2세"
+msgstr "아르타크세르크세스 2세"
 
 #: simulation/data/civs/pers.jsonAINames[9]
 msgid "Artaxshacha III"
-msgstr ""
+msgstr "아르타크세르크세스 3세"
 
 #: simulation/data/civs/pers.jsonAINames[10]
 msgid "Haxamanish"
-msgstr ""
+msgstr "아케메네스"
 
 #: simulation/data/civs/pers.jsonAINames[11]
 msgid "Xsayarsa II"
-msgstr ""
+msgstr "끄샤야르샤 2세"
 
 #: simulation/data/civs/pers.jsonFactions[0].Technologies[0].Description
 msgid "Phoenician triremes gain the unique ability to train cavalry units."
@@ -1894,7 +1893,7 @@ msgstr ""
 
 #: simulation/data/civs/pers.jsonFactions[0].Technologies[0].Name
 msgid "Naval Craftsmanship"
-msgstr ""
+msgstr "해군?? 장인기술"
 
 #: simulation/data/civs/pers.jsonFactions[0].Technologies[0].History
 msgid ""
@@ -1931,7 +1930,7 @@ msgstr ""
 
 #: simulation/data/civs/pers.jsonFactions[0].Technologies[2].Name
 msgid "Immortals"
-msgstr "이모탈"
+msgstr "불멸"
 
 #: simulation/data/civs/pers.jsonFactions[0].Technologies[3].Description
 #: simulation/data/civs/sele.jsonFactions[0].Technologies[3].Description
@@ -1941,7 +1940,7 @@ msgstr ""
 #: simulation/data/civs/pers.jsonFactions[0].Technologies[3].Name
 #: simulation/data/civs/sele.jsonFactions[0].Technologies[3].Name
 msgid "Nisean War Horses"
-msgstr ""
+msgstr "니산 전투마"
 
 #: simulation/data/civs/pers.jsonFactions[0].Technologies[3].History
 msgid ""
@@ -1961,7 +1960,7 @@ msgstr ""
 
 #: simulation/data/civs/pers.jsonFactions[0].Heroes[0].Name
 msgid "Kurush II"
-msgstr "쿠루쉬 2세"
+msgstr "키루스 2세"
 
 #: simulation/data/civs/pers.jsonFactions[0].Heroes[1].History
 msgid ""
@@ -1995,7 +1994,7 @@ msgstr ""
 
 #: simulation/data/civs/pers.jsonStructures[1].Name
 msgid "Apadana"
-msgstr ""
+msgstr "아파다나"
 
 #: simulation/data/civs/pers.jsonStructures[1].Special
 msgid ""
@@ -2038,6 +2037,7 @@ msgid "Mercenary Army"
 msgstr "용병대"
 
 #: simulation/data/civs/ptol.jsonCivBonuses[0].History
+#: simulation/data/civs/ptol.jsonStructures[1].History
 msgid ""
 "The Greco-Macedonian Ptolemy Dynasty relied on large numbers of Greek and "
 "foreign mercenaries for the bulk of its military force, mainly because the "
@@ -2061,19 +2061,19 @@ msgstr "나일 강 삼각주"
 #: simulation/data/civs/ptol.jsonCivBonuses[1].History
 #: simulation/data/civs/ptol.jsonCivBonuses[2].History
 msgid "Unknown."
-msgstr "알수없는."
+msgstr "알수없음."
 
 #: simulation/data/civs/ptol.jsonCivBonuses[2].Description
 msgid "Can capture gaia elephants and camels to reduce their training cost."
 msgstr ""
 
 #: simulation/data/civs/ptol.jsonTeamBonuses[0].Description
-msgid "All allies automatically gain a slow trickle of food income."
-msgstr ""
+msgid "Allies +1.0 food trickle rate."
+msgstr "동맹의 식량 공급률을 +1.0 증가시킵니다."
 
 #: simulation/data/civs/ptol.jsonTeamBonuses[0].Name
 msgid "Breadbasket of the Mediterranean"
-msgstr "지중해의 빵상자"
+msgstr "지중해의 곡창지대"
 
 #: simulation/data/civs/ptol.jsonTeamBonuses[0].History
 msgid ""
@@ -2224,18 +2224,6 @@ msgid ""
 "Trains all 'mercenary' units."
 msgstr ""
 
-#: simulation/data/civs/ptol.jsonStructures[1].History
-msgid ""
-"The Greco-Macedonian Ptolemy Dynasty relied on large numbers of Greek and "
-"foreign mercenaries for the bulk of its military force, mainly because the "
-"loyalty of native Egyptian units was often suspect. Indeed, during one "
-"native uprising, Upper Egypt was lost to the Ptolemies for decades. "
-"Mercenaries were often battle-hardened and their loyalty can be bought, "
-"sometimes cheaply, sometimes not cheaply. This was of no matter, since Egypt"
-" under the Ptolemies was so prosperous as to be the richest of Alexander's "
-"successor states."
-msgstr ""
-
 #: simulation/data/civs/ptol.jsonStructures[2].Name
 msgid "Lighthouse"
 msgstr "등대"
@@ -2301,8 +2289,8 @@ msgid ""
 msgstr "로마 시민권을 고대 세계에서 매우 가치가 높았습니다. 로마 시민들의 기본 권리와 특권들은 다른 점령 주민들에게는 제공되지 않는 것이였습니다. 심지어 로마 시민을 해하는 일은 로마를 해하는것과 같으며, 로마 전체가 그 해친자를 잡으러 올수 있게 할수 있다고 하는 말도 있었습니다."
 
 #: simulation/data/civs/rome.jsonTeamBonuses[0].Description
-msgid "-20% training time for allied infantry."
-msgstr "연합 군인의 생산 시간이 20% 감소합니다."
+msgid "Allied citizen-soldier infantry −20% training time."
+msgstr "동맹의 시민군 보병 양성 시간이 -20% 감소합니다."
 
 #: simulation/data/civs/rome.jsonTeamBonuses[0].Name
 msgid "Conscription"
@@ -2321,7 +2309,7 @@ msgstr ""
 
 #: simulation/data/civs/rome.jsonAINames[0]
 msgid "Lucius Junius Brutus"
-msgstr ""
+msgstr "루키우스 유니우스 브루투스"
 
 #: simulation/data/civs/rome.jsonAINames[1]
 msgid "Lucius Tarquinius Collatinus"
@@ -2361,7 +2349,7 @@ msgstr "푸블리우스 코르넬리우스 스키피오 아프리카누스"
 
 #: simulation/data/civs/rome.jsonAINames[10]
 msgid "Publius Sempronius Tuditanus"
-msgstr ""
+msgstr "푸블리우스 셈프로니우스 투디타누스"
 
 #: simulation/data/civs/rome.jsonAINames[11]
 msgid "Marcus Cornelius Cethegus"
@@ -2455,7 +2443,7 @@ msgstr ""
 
 #: simulation/data/civs/rome.jsonStructures[1].Name
 msgid "Murus Latericius"
-msgstr ""
+msgstr "무루스 라테리시우스"
 
 #: simulation/data/civs/rome.jsonStructures[1].Special
 msgid "Can be built in neutral and enemy territory to strangle enemy towns."
@@ -2490,7 +2478,7 @@ msgstr ""
 
 #: simulation/data/civs/sele.jsonCivBonuses[0].Name
 msgid "Cleruchy"
-msgstr ""
+msgstr "크레루치"
 
 #: simulation/data/civs/sele.jsonCivBonuses[1].Description
 msgid ""
@@ -2511,8 +2499,8 @@ msgid ""
 msgstr ""
 
 #: simulation/data/civs/sele.jsonTeamBonuses[0].Description
-msgid "Allied Civic Centers are 20% cheaper."
-msgstr ""
+msgid "Allied civil centers −20% resource costs."
+msgstr "동맹의 시민 회관의 자원 비용을 -20% 감소시킵니다."
 
 #: simulation/data/civs/sele.jsonTeamBonuses[0].Name
 msgid "Syrian Tetrapolis"
@@ -2587,7 +2575,7 @@ msgstr "안티오코스 7세 시데테스"
 
 #: simulation/data/civs/sele.jsonAINames[16]
 msgid "Alexander II Zabinas"
-msgstr ""
+msgstr "알렉산더 2세 자비나스"
 
 #: simulation/data/civs/sele.jsonAINames[17]
 msgid "Cleopatra Thea"
@@ -2801,10 +2789,8 @@ msgid ""
 msgstr ""
 
 #: simulation/data/civs/spart.jsonTeamBonuses[0].Description
-msgid ""
-"Increases the health for citizen-soldier infantry spearmen by 10% for allies"
-" of Spartan players."
-msgstr "스파르타 플레이어의 동맹국에 대해 시민 창병의 체력을 10% 증가시킵니다."
+msgid "Allied citizen-soldier infantry spearmen +10% health."
+msgstr "동맹의 시민군 소속 창 보병의 체력이 +10% 증가합니다."
 
 #: simulation/data/civs/spart.jsonTeamBonuses[0].Name
 msgid "Peloponnesian League"
@@ -2853,11 +2839,11 @@ msgstr "에케스트라토스"
 
 #: simulation/data/civs/spart.jsonAINames[9]
 msgid "Eurycrates"
-msgstr ""
+msgstr "에우리크라테스"
 
 #: simulation/data/civs/spart.jsonAINames[10]
 msgid "Eucleidas"
-msgstr ""
+msgstr "에우크레이다스"
 
 #: simulation/data/civs/spart.jsonAINames[11]
 msgid "Agesipolis"
@@ -2954,7 +2940,7 @@ msgstr "아기스 3세"
 
 #: simulation/data/civs/spart.jsonStructures[1].Name
 msgid "Syssition"
-msgstr ""
+msgstr "시스시티온"
 
 #: simulation/data/civs/spart.jsonStructures[1].Special
 msgid "Train heroes and Spartiates and research technologies related to them."

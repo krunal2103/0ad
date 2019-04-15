@@ -4,6 +4,7 @@
 # 
 # Translators:
 # ernest olory <ernestolory@hotmail.fr>, 2018
+# Goulven <goulvenbreizh@hotmail.fr>, 2019
 # Irriep Nala Novram <allannkorh@yahoo.fr>, 2016-2018
 # Thierry Vignaud <thierry.vignaud@gmail.com>, 2016-2017
 # Irriep Nala Novram <allannkorh@yahoo.fr>, 2016
@@ -11,8 +12,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0 A.D.\n"
-"POT-Creation-Date: 2019-02-25 09:44+0100\n"
-"PO-Revision-Date: 2019-02-25 14:51+0000\n"
+"POT-Creation-Date: 2019-03-22 09:44+0100\n"
+"PO-Revision-Date: 2019-03-22 15:29+0000\n"
 "Last-Translator: Adrián Chaves Fernández <adriyetichaves@gmail.com>\n"
 "Language-Team: Breton (http://www.transifex.com/wildfire-games/0ad/language/br/)\n"
 "MIME-Version: 1.0\n"
@@ -286,10 +287,6 @@ msgstr "Ki Brezel"
 #: simulation/templates/template_unit_dog.xml:41
 msgid "Cannot attack structures."
 msgstr "N'hall ket tagañ ar savadurioù."
-
-#: simulation/templates/template_unit_fauna_fish.xml:11
-msgid "Gather food from this bountiful oceanic resource."
-msgstr "Dastum boued diouzh ar vammenn-vor-puilh-mañ."
 
 #: simulation/templates/template_unit_fauna_hunt_whale.xml:9
 msgid "Kill, then gather food from this bountiful oceanic resource."
@@ -1777,7 +1774,7 @@ msgstr "Hemiolos"
 
 #: simulation/templates/units/mace_ship_trireme.xml:6
 msgid "Macedonian Trireme"
-msgstr ""
+msgstr "Lestr-Teirroeñvek Makedonian"
 
 #: simulation/templates/units/mace_support_female_citizen.xml:5
 msgid "Gýnē Makedonikḗ"
@@ -2475,7 +2472,7 @@ msgstr "Scorpio"
 
 #: simulation/templates/units/rome_ship_bireme.xml:5
 msgid "Liburna"
-msgstr ""
+msgstr "Liburna"
 
 #: simulation/templates/units/rome_ship_fishing.xml:5
 msgid "Navicula Piscatoria"
@@ -2766,7 +2763,7 @@ msgstr "Hoplítēs Períoikos"
 
 #: simulation/templates/units/spart_ship_trireme.xml:6
 msgid "Spartan Trireme"
-msgstr ""
+msgstr "Lestr-Teirroeñvek Spartan"
 
 #: simulation/templates/units/spart_support_female_citizen.xml:21
 msgid "Spartan Woman"
@@ -2810,4 +2807,4 @@ msgstr "Melanochitones"
 
 #: simulation/templates/units/viking_longship.xml:4
 msgid "Longship"
-msgstr ""
+msgstr "Lestr hir"
